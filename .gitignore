@@ -1,0 +1,8 @@
+__pycache__/
+*.log
+shot*.png
+news_db.json
+pending_summary.json
+rejected.json
+rejected_urls.json
+source_status.json
