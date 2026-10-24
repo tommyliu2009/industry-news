@@ -9,31 +9,31 @@
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-10-24 菲律賓力拚發展半導體產業　周民淦：台灣可助攻：https://www.cna.com.tw/news/aopl/202610240193.aspx
+- 2026-10-24 The AI graveyard: a running list of projects and startups that didn’t make it：https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/
+- 2026-10-24 川普豁免部分加拿大商品50%關稅助參議員柯林斯拚連任：https://www.cna.com.tw/news/aopl/202610240046.aspx
+- 2026-10-24 菲律賓台商總會首辦台灣連結展　擴大台菲企業交流：https://www.cna.com.tw/news/aopl/202610240184.aspx
+- 2026-10-24 Block’s new voice model sounds eerily human：https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/
+- 2026-10-24 霧霾問題爆外交齟齬印尼削減對新加坡天然氣出口：https://www.cna.com.tw/news/aopl/202610240173.aspx
+- 2026-10-24 Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.：https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/
+- 2026-10-24 工研院擬工業區建稀土廠拚2030年50%需求自給自足：https://www.cna.com.tw/news/afe/202610240025.aspx
+- 2026-10-24 搶救少子化　行庫加碼生育補助今年前8月逾760人申請：https://www.cna.com.tw/news/afe/202610240030.aspx
+- 2026-10-24 張培仁掌工研院將滿週年　承接大學研發成果助攻產業：https://www.cna.com.tw/news/afe/202610240024.aspx
+- 2026-10-24 英國加碼AI安全投資　防範網攻與生物威脅：https://www.cna.com.tw/news/aopl/202610240086.aspx
+- 2026-10-24 Pennsylvania will require labels on AI-generated ads：https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act
+- 2026-10-24 中國外長王毅：中美有責任管控好人工智慧：https://www.cna.com.tw/news/acn/202610240045.aspx
+- 2026-10-23 奧克拉荷馬州在台辦事處啟用深化台美經貿科技合作：https://www.cna.com.tw/news/aipl/202610230019.aspx
+- 2026-10-23 Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell：https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/
+- 2026-10-23 雅特力第4季營收估季減30%至35% 今年增逾1倍：https://www.cna.com.tw/news/afe/202610230167.aspx
+- 2026-10-23 AI需求暢旺 9月工業生產指數年增19.17%、連31紅：https://www.cna.com.tw/news/afe/202610230153.aspx
+- 2026-10-23 Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend：https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech
+- 2026-10-23 Now Google says it might use your Gmail and Google Photos data to target ads：https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update
+- 2026-10-23 Meta delays new business terms after publisher pushback on AI scraping：https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping
+- 2026-10-23 Retro gaming is being overrun with AI：https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port
+- 2026-10-23 9月製造業測驗點創逾4年半新高 台經院示警3風險：https://www.cna.com.tw/news/afe/202610230078.aspx
+- 2026-10-23 Kazakhstan Expands Compute for Its AI Future：https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/
+- 2026-10-23 美擬收緊對中敏感科技投資限制涵蓋AI、生技及極音速武器：https://www.cna.com.tw/news/aopl/202610230111.aspx
 - 2026-10-23 林佳龍接見英駐台代表盼深化半導體量子科技等合作：https://www.cna.com.tw/news/aipl/202610230097.aspx
-- 2026-10-23 Volvo宣布全球裁員2500人因應美國關稅和中國競爭衝擊：https://www.cna.com.tw/news/aopl/202610230157.aspx
-- 2026-10-23 美國運通裁減全球約5%人力　擁抱AI精簡組織：https://www.cna.com.tw/news/aopl/202610230278.aspx
-- 2026-10-23 Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia：https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/
-- 2026-10-23 Left alone with nothing to do, AI agents started playing：https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/
-- 2026-10-23 歐中磋商互撤企業制裁　涉艾司摩爾德國供應商：https://www.cna.com.tw/news/acn/202610230263.aspx
-- 2026-10-23 9月汽機車零售回溫年增20.3%　經部預估後市溫和成長：https://www.cna.com.tw/news/afe/202610230213.aspx
-- 2026-10-23 9月製造業生產低於預期　經部：伺服器產品組合變動影響：https://www.cna.com.tw/news/afe/202610230204.aspx
-- 2026-10-23 歐元區10月PMI降至51.9　企業活動成長放緩：https://www.cna.com.tw/news/aopl/202610230192.aspx
-- 2026-10-23 PHP漏洞凸顯AI時代助長網攻　專家授5招自保對策：https://www.cna.com.tw/news/ait/202610230138.aspx
-- 2026-10-23 蘋果首款摺疊手機iPhone Duo開賣　能否帶動市場受關注：https://www.cna.com.tw/news/ait/202610230081.aspx
-- 2026-10-23 含華為人臉偵測晶片　美首度依新規封殺2款裝置：https://www.cna.com.tw/news/ait/202610230012.aspx
-- 2026-10-23 OpenAI now trains its frontier AI models with no internet access：https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet
-- 2026-10-22 台灣立陶宛雷射合作拓展半導體應用　結合研發與製造優勢：https://www.cna.com.tw/news/aopl/202610220355.aspx
-- 2026-10-22 戰略性高科技貨品出口管制清單新增343個實體：https://www.cna.com.tw/news/afe/202610220347.aspx
-- 2026-10-22 OpenAI working on new $30B raise at $1.25T valuation ahead of IPO：https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/
-- 2026-10-22 TPCA展矽電容成焦點晶圓代工、封測廠搶先機：https://www.cna.com.tw/news/afe/202610220125.aspx
-- 2026-10-22 1Password launches a way for AI agents to log in on your behalf without seeing your password：https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/
-- 2026-10-22 Canva releases its first image generation model：https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/
-- 2026-10-22 早安世界》9月電力景氣燈號連18紅台綜院估半導體用電全年破500億度：https://www.cna.com.tw/news/ahel/202610225001.aspx
-- 2026-10-22 OpenAI makes its Jev competitor widely available as decision model competition heats up：https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/
-- 2026-10-22 Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’：https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/
-- 2026-10-22 宇田控制23日每股42.5元興櫃攻AI液冷和半導體設備商機：https://www.cna.com.tw/news/afe/202610220265.aspx
-- 2026-10-22 Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise：https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/
-- 2026-10-22 Uber puts all 30,000 employees on ChatGPT Work：https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/
 
 ## 相關網站
 - 標案王：https://www.bidking.tw/
