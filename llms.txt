@@ -9,31 +9,31 @@
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-10-24 菲律賓力拚發展半導體產業　周民淦：台灣可助攻：https://www.cna.com.tw/news/aopl/202610240193.aspx
-- 2026-10-24 The AI graveyard: a running list of projects and startups that didn’t make it：https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/
-- 2026-10-24 川普豁免部分加拿大商品50%關稅助參議員柯林斯拚連任：https://www.cna.com.tw/news/aopl/202610240046.aspx
-- 2026-10-24 菲律賓台商總會首辦台灣連結展　擴大台菲企業交流：https://www.cna.com.tw/news/aopl/202610240184.aspx
-- 2026-10-24 Block’s new voice model sounds eerily human：https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/
-- 2026-10-24 霧霾問題爆外交齟齬印尼削減對新加坡天然氣出口：https://www.cna.com.tw/news/aopl/202610240173.aspx
-- 2026-10-24 Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.：https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/
-- 2026-10-24 工研院擬工業區建稀土廠拚2030年50%需求自給自足：https://www.cna.com.tw/news/afe/202610240025.aspx
-- 2026-10-24 搶救少子化　行庫加碼生育補助今年前8月逾760人申請：https://www.cna.com.tw/news/afe/202610240030.aspx
-- 2026-10-24 張培仁掌工研院將滿週年　承接大學研發成果助攻產業：https://www.cna.com.tw/news/afe/202610240024.aspx
-- 2026-10-24 英國加碼AI安全投資　防範網攻與生物威脅：https://www.cna.com.tw/news/aopl/202610240086.aspx
-- 2026-10-24 Pennsylvania will require labels on AI-generated ads：https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act
-- 2026-10-24 中國外長王毅：中美有責任管控好人工智慧：https://www.cna.com.tw/news/acn/202610240045.aspx
-- 2026-10-23 奧克拉荷馬州在台辦事處啟用深化台美經貿科技合作：https://www.cna.com.tw/news/aipl/202610230019.aspx
-- 2026-10-23 Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell：https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/
-- 2026-10-23 雅特力第4季營收估季減30%至35% 今年增逾1倍：https://www.cna.com.tw/news/afe/202610230167.aspx
-- 2026-10-23 AI需求暢旺 9月工業生產指數年增19.17%、連31紅：https://www.cna.com.tw/news/afe/202610230153.aspx
-- 2026-10-23 Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend：https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech
-- 2026-10-23 Now Google says it might use your Gmail and Google Photos data to target ads：https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update
-- 2026-10-23 Meta delays new business terms after publisher pushback on AI scraping：https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping
-- 2026-10-23 Retro gaming is being overrun with AI：https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port
-- 2026-10-23 9月製造業測驗點創逾4年半新高 台經院示警3風險：https://www.cna.com.tw/news/afe/202610230078.aspx
-- 2026-10-23 Kazakhstan Expands Compute for Its AI Future：https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/
-- 2026-10-23 美擬收緊對中敏感科技投資限制涵蓋AI、生技及極音速武器：https://www.cna.com.tw/news/aopl/202610230111.aspx
-- 2026-10-23 林佳龍接見英駐台代表盼深化半導體量子科技等合作：https://www.cna.com.tw/news/aipl/202610230097.aspx
+- 2026-10-26 美國：已協助波灣國家經荷莫茲海峽出口15億桶原油：https://www.cna.com.tw/news/aopl/202610260012.aspx
+- 2026-10-25 星宇航空台中名古屋開航　11月起天天直飛：https://www.cna.com.tw/news/afe/202610250168.aspx
+- 2026-10-25 AI delivers ‘zero financial payoff’ to most companies, Apollo economist says：https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/
+- 2026-10-25 陳立武：英特爾拚ASIC、實體AI、先進封裝各達10%營收：https://www.cna.com.tw/news/aopl/202610250133.aspx
+- 2026-10-25 The hottest AI wearables and gadgets you should know about：https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/
+- 2026-10-25 長榮航：客運旺、AI貨運無淡季　油價成最大變數：https://www.cna.com.tw/news/afe/202610250131.aspx
+- 2026-10-25 各國爭取與AI強國合作取得先進模型 美專家：台灣有最強優勢【專訪】：https://www.cna.com.tw/news/aipl/202610250012.aspx
+- 2026-10-25 星巴克客製化加收15元　專家：企業算成本、顧客看價值：https://www.cna.com.tw/news/afe/202610250038.aspx
+- 2026-10-25 數發部擬推3機制　促Meta等平台落實AI生成影像標示：https://www.cna.com.tw/news/afe/202610250026.aspx
+- 2026-10-25 Google’s AI search changes upended online publishing：https://www.theverge.com/column/1017983/google-ai-search-online-publishing
+- 2026-10-25 日媒：日本政府計劃培養「軍民兩用」產業：https://www.cna.com.tw/news/aopl/202610250153.aspx
+- 2026-10-25 AI運算再快也怕「塞車」　解析破局關鍵CPO共同封裝光學：https://www.cna.com.tw/news/afe/202610250023.aspx
+- 2026-10-25 美專家：AI產業成功仰賴人們信任 建立信任需監管介入【專訪】：https://www.cna.com.tw/news/aopl/202610250058.aspx
+- 2026-10-25 AI基建融資疑慮升溫　分析師：擴張受限或有助延長景氣強勁時間：https://www.cna.com.tw/news/afe/202610250018.aspx
+- 2026-10-25 比爾蓋茲：AI將持續取代人類工作　富豪應多繳稅助政府因應：https://www.cna.com.tw/news/ait/202610250148.aspx
+- 2026-10-25 勘查宜蘭公糧倉庫受損情形 卓揆：簡化修繕補助行政流程 強化糧倉防災韌性：https://www.ey.gov.tw/Page/9277F759E41CCD91/ffdec6e3-e48c-49c3-b011-7ba4d3774008
+- 2026-10-25 中國AI出口管制之際　DeepSeek等完成海外輸出登記：https://www.cna.com.tw/news/acn/202610250093.aspx
+- 2026-10-25 中國首部AI電影「三星堆」上映製作成本大幅降低：https://www.cna.com.tw/news/acn/202610250063.aspx
+- 2026-10-25 AI加速揭露軟體漏洞　專家警告：網路安全恐迎混亂期：https://www.cna.com.tw/news/ait/202610250062.aspx
+- 2026-10-25 勘查宜蘭農損情形 卓揆：中央地方攜手做農民後盾 「從優、從速、從寬」辦理救助並加速復耕：https://www.ey.gov.tw/Page/9277F759E41CCD91/bfcbb4a3-6591-4160-9dba-dec1fa43f62c
+- 2026-10-25 美加大限制對中科技投資中國籲停止泛化國安概念：https://www.cna.com.tw/news/aopl/202610250036.aspx
+- 2026-10-24 造山者愛荷華州放映駐美官員：台美關係唇齒相依：https://www.cna.com.tw/news/aipl/202610240020.aspx
+- 2026-10-24 德國總理將訪問日本擬加強稀土與國防合作：https://www.cna.com.tw/news/aopl/202610240067.aspx
+- 2026-10-24 台灣對美軍購24案 21案進度正常、3案延宕：https://www.cna.com.tw/news/aipl/202610240124.aspx
+- 2026-10-24 AI衝擊就業中國發布文件要求管控風險、開發新職業：https://www.cna.com.tw/news/acn/202610240059.aspx
 
 ## 相關網站
 - 標案王：https://www.bidking.tw/
