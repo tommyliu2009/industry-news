@@ -9,31 +9,31 @@
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-10-26 AI熱潮助攻　ASML今年對荷蘭經濟貢獻估達1.6%：https://www.cna.com.tw/news/aopl/202610260257.aspx
-- 2026-10-26 Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked：https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/
-- 2026-10-26 中國擬加強保護商業秘密可禁外資進出口技術：https://www.cna.com.tw/news/acn/202610260224.aspx
-- 2026-10-26 Anthropic公開IPO遞件　那斯達克上市股票代碼ANT：https://www.cna.com.tw/news/aopl/202610260247.aspx
-- 2026-10-26 SpaceX locks in $40B GPU financing deal with Apollo：https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/
-- 2026-10-26 Meta擬股權融資最高950億美元　因應AI擴張資本支出：https://www.cna.com.tw/news/aopl/202610260238.aspx
-- 2026-10-26 日本遭網攻經濟受擾　企業陸續提供用戶補償金：https://www.cna.com.tw/news/aopl/202610260203.aspx
-- 2026-10-26 歐盟擋中國廉價電商品湧入再出招　11/1起對包裹加收處理費：https://www.cna.com.tw/news/aopl/202610260188.aspx
-- 2026-10-26 The RealReal won’t let AI agents hog designer clothing：https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal
-- 2026-10-26 蘋果新iPad mini首換OLED螢幕售價2.29萬元起：https://www.cna.com.tw/news/ait/202610260248.aspx
-- 2026-10-26 川普接受福斯新聞節目訪問提台灣再稱美國晶片生意遭竊：https://www.cna.com.tw/news/aipl/202610260165.aspx
-- 2026-10-26 塔塔通訊投資150億元　印度各地建設AI相關基礎設施：https://www.cna.com.tw/news/ait/202610260209.aspx
-- 2026-10-26 早安世界》卓榮泰宜蘭勘災要求農損補助從優從速從寬3天核撥：https://www.cna.com.tw/news/ahel/202610265001.aspx
-- 2026-10-26 Anthropic涉擅用貓王274首歌曲訓練AI模型　挨告侵權：https://www.cna.com.tw/news/ait/202610260141.aspx
-- 2026-10-26 Microsoft offers buyouts to 60,000 employees：https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible
-- 2026-10-26 英國率先成立生物安全AI實驗室　OpenAI等美企投資：https://www.cna.com.tw/news/aopl/202610260024.aspx
-- 2026-10-26 美媒：Claude繞過付費牆　擷取美喬治亞州計票數據：https://www.cna.com.tw/news/aopl/202610260018.aspx
-- 2026-10-26 Can AI help solve the COBOL code crisis?：https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic
-- 2026-10-26 昇達科看好低軌衛星擴張AI帶動太空運算及資料中心應用：https://www.cna.com.tw/news/afe/202610260028.aspx
-- 2026-10-26 AI產業政策李四川稱歡迎跟進蘇巧慧：不一樣：https://www.cna.com.tw/news/aipl/202610260109.aspx
-- 2026-10-26 把根種回來／原鄉保種擴及160部落火蔥示範六級化產業模式：https://www.cna.com.tw/news/ahel/202610260066.aspx
-- 2026-10-26 Our newest AI Quest: Mapping the human brain：https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/
-- 2026-10-26 日本工具機展登場94家台廠展現供應鏈實力：https://www.cna.com.tw/news/afe/202610260082.aspx
-- 2026-10-26 高盛上修台灣今年GDP成長預測至11.7％ 估12月啟動升息週期：https://www.cna.com.tw/news/afe/202610263001.aspx
-- 2026-10-26 高雄市交通局加碼機車駕訓班補助籲市民踴躍申辦：https://www.cna.com.tw/news/aloc/202610260128.aspx
+- 2026-10-27 保險業前9月賺3977億元　壽險外匯避險比率40.95%：https://www.cna.com.tw/news/afe/202610270307.aspx
+- 2026-10-27 Disruptive raises $10B fund to make big bets on at least 10 companies：https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/
+- 2026-10-27 力成：考量合作晶圓廠先進封裝營收占比續增：https://www.cna.com.tw/news/afe/202610270200.aspx
+- 2026-10-27 立院關注夜間供電　台電：今年7至10月備轉全數綠燈：https://www.cna.com.tw/news/afe/202610270304.aspx
+- 2026-10-27 Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?：https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/
+- 2026-10-27 AI半導體和機器人帶動傳動氣動元件概念股勁揚：https://www.cna.com.tw/news/afe/202610270078.aspx
+- 2026-10-27 中國進博會開幕在即學者：短期可能減少貿易順差：https://www.cna.com.tw/news/acn/202610270315.aspx
+- 2026-10-27 鴻海科技日30日登場　鎖定AI智造機器人電動車：https://www.cna.com.tw/news/afe/202610270300.aspx
+- 2026-10-27 Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering：https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/
+- 2026-10-27 半導體需求強勁韓國第3季經濟成長超乎預期：https://www.cna.com.tw/news/aopl/202610270033.aspx
+- 2026-10-27 經部赴立院報告能源轉型　籲各界支持中油台電預算撥補：https://www.cna.com.tw/news/afe/202610270293.aspx
+- 2026-10-27 Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace：https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/
+- 2026-10-27 網家張瑜珊：對資安防護戒慎恐懼盼第4季營收續增：https://www.cna.com.tw/news/afe/202610270256.aspx
+- 2026-10-27 NSTC-新聞資料-第10屆臺菲科技會議於菲律賓舉行 持續深化雙邊科研合作與人培鏈結：https://www.nstc.gov.tw/folksonomy/detail/18fd8bda-fe19-423a-8b60-fdb273d06e5c?l=CH&utm_source=rss
+- 2026-10-27 美銀等4投行提供2兆多元融資　助Anthropic買博通晶片：https://www.cna.com.tw/news/aopl/202610270285.aspx
+- 2026-10-27 Japan internet giant GMO says hackers posted stolen customer data：https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/
+- 2026-10-27 台灣大布局先買後付導入AI風控　用戶年增近5成：https://www.cna.com.tw/news/afe/202610270277.aspx
+- 2026-10-27 Opera introduces a new web standard to let users deploy AI locally in their browser：https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/
+- 2026-10-27 國研院攜手汎銓科技突破EUV光阻分析技術：https://www.cna.com.tw/news/afe/202610270164.aspx
+- 2026-10-27 M6晶片加持　蘋果新MacBook Pro與iMac搶換機潮：https://www.cna.com.tw/news/ait/202610270316.aspx
+- 2026-10-27 General Compute raises $100 million Series A, countering the neocloud disaster narrative：https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/
+- 2026-10-27 宏偉擬11月上櫃看好AI擴廠新機潮 在手訂單增至3年：https://www.cna.com.tw/news/afe/202610270188.aspx
+- 2026-10-27 輝達投資Meta近1000億元　深化個人AI代理Muse合作：https://www.cna.com.tw/news/ait/202610270222.aspx
+- 2026-10-27 Nvidia backs Indian startup helping companies run AI models with fewer GPUs：https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/
+- 2026-10-27 力成：第4季AI扮成長要角價格效益助攻獲利：https://www.cna.com.tw/news/afe/202610270168.aspx
 
 ## 相關網站
 - 標案王：https://www.bidking.tw/
