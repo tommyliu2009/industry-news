@@ -9,31 +9,31 @@
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-10-29 蘋果推首款觸控螢幕筆電　搭動態島售價9.79萬元起：https://www.cna.com.tw/news/ait/202610290028.aspx
-- 2026-10-28 Google expands AI Search ads globally as core ad growth slows：https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/
-- 2026-10-28 凌霄航太羅正方：無人機靠民主同盟打造韌性供應鏈：https://www.cna.com.tw/news/afe/202610280192.aspx
-- 2026-10-28 鴻勁：高階溫控和CPO設備明年貢獻營收　毛利率看升：https://www.cna.com.tw/news/afe/202610280333.aspx
-- 2026-10-28 日德設AI高層對話針對中國出口管制強化經濟安保：https://www.cna.com.tw/news/aopl/202610280321.aspx
-- 2026-10-28 台積電、美光加碼布局台中市府：兩大巨頭投資破兆：https://www.cna.com.tw/news/aloc/202610280235.aspx
-- 2026-10-28 新加坡科技創新週登場　台灣新創拓展投資合作機會：https://www.cna.com.tw/news/afe/202610280322.aspx
-- 2026-10-28 聯電估明年平均售價增10% 3年內AI營收比重拚25%：https://www.cna.com.tw/news/afe/202610280287.aspx
-- 2026-10-28 As AI agents reshape the web, Google opens Gemini and Search to more apps：https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/
-- 2026-10-28 台汽電串聯電力與算力布局AI能源服務：https://howlife.cna.com.tw/life/20261028s009.aspx
-- 2026-10-28 Anthropic估值上看2兆美元　阿莫戴等7創辦人將成億萬富豪：https://www.cna.com.tw/news/ait/202610280077.aspx
-- 2026-10-28 South Korea’s financial industry hit by fresh wave of cyberattacks：https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/
-- 2026-10-28 產業新尖兵補助訓練費 將首納付費訂閱AI：https://www.cna.com.tw/news/ahel/202610280069.aspx
-- 2026-10-28 日本對台鎳系不鏽鋼課反傾銷稅5年業者將設法申訴：https://www.cna.com.tw/news/afe/202610280257.aspx
-- 2026-10-28 Adam Mosseri says negativity around AI is ‘going to get worse’：https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity
-- 2026-10-28 日本鎖定台灣與中製鋼板 將徵5年反傾銷稅、稅率3.6%至42.1%：https://www.cna.com.tw/news/afe/202610280078.aspx
-- 2026-10-28 經部助扣件業走出關稅衝擊 209家導入AI工具：https://www.cna.com.tw/news/afe/202610280210.aspx
-- 2026-10-28 投審會核准371億僑外投資酷澎增資255億元最多：https://www.cna.com.tw/news/afe/202610280286.aspx
-- 2026-10-28 Microsoft is ending Copilot support on smart TVs：https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending
-- 2026-10-28 Creating AI value with enterprise context：https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/
-- 2026-10-28 彰化食品實力再升級！20家優良食品工廠脫穎而出：https://howlife.cna.com.tw/life/20261028s008.aspx
-- 2026-10-27 Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication：https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/
-- 2026-10-27 Bank of America kindly asks that you don’t share your banking password with your AI assistant：https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/
-- 2026-10-27 第10屆臺菲科技會議於菲律賓舉行 持續深化雙邊科研合作與人培鏈結：https://www.nstc.gov.tw/folksonomy/detail/18fd8bda-fe19-423a-8b60-fdb273d06e5c?l=ch
-- 2026-10-27 保險業前9月賺3977億元　壽險外匯避險比率40.95%：https://www.cna.com.tw/news/afe/202610270307.aspx
+- 2026-10-30 全球能源價格高漲　歐洲12國承諾釋出4260萬桶戰略儲油：https://www.cna.com.tw/news/aopl/202610300007.aspx
+- 2026-10-29 As search traffic dries up, Reddit announces it’s shifting to a logged-in experience：https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/
+- 2026-10-29 TSIA：今年台灣半導體產值估逾9.1兆元 成長40.9%：https://www.cna.com.tw/news/afe/202610290199.aspx
+- 2026-10-29 瑞銀：台灣擁AI供應鏈優勢 估明年企業獲利成長37%：https://www.cna.com.tw/news/afe/202610290348.aspx
+- 2026-10-29 網通設備恐受PHP漏洞影響　資安署籲檢視設定儘速更新：https://www.cna.com.tw/news/afe/202610290387.aspx
+- 2026-10-29 Rivian expands joint venture with VW to include AI assistant：https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/
+- 2026-10-29 耐特擬11月中下旬上市半導體載具與BBU驅動成長：https://www.cna.com.tw/news/afe/202610290063.aspx
+- 2026-10-29 切入低軌衛星供應鏈昆桐興櫃首日漲幅逾倍：https://www.cna.com.tw/news/afe/202610290108.aspx
+- 2026-10-29 吉晟生將成首家上櫃核醫藥廠　TLC新藥布局日本：https://www.cna.com.tw/news/afe/202610290364.aspx
+- 2026-10-29 OpenAI-backed Thrive Holdings acquires ADT：https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/
+- 2026-10-29 侯永清：AI浪潮台IC設計不全弱　聯發科競爭力增強：https://www.cna.com.tw/news/afe/202610290362.aspx
+- 2026-10-29 Meta quietly launches an AI fashion app called Style Sketch：https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/
+- 2026-10-29 日月光上修先進封測營收再擴資本支出CPO營收看增：https://www.cna.com.tw/news/afe/202610290229.aspx
+- 2026-10-29 拚能源安全　菲律賓與新加坡探討電力互聯與核能合作：https://www.cna.com.tw/news/ait/202610290331.aspx
+- 2026-10-29 Granola crunches up a dictation feature to compete with Wispr：https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/
+- 2026-10-29 半導體需穩定供電TSIA侯永清：支持政府重啟核電廠評估計畫：https://www.cna.com.tw/news/afe/202610290170.aspx
+- 2026-10-29 jpp電力能源機構件第4季量產切入空巴A350供應鏈：https://www.cna.com.tw/news/afe/202610290295.aspx
+- 2026-10-29 美國紐約州祭新法　限制未滿18歲兒少使用AI聊天機器人：https://www.cna.com.tw/news/ait/202610290328.aspx
+- 2026-10-29 Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity：https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/
+- 2026-10-29 資安險上半年保費收入3.19億元半導體業占近半居冠：https://www.cna.com.tw/news/afe/202610290304.aspx
+- 2026-10-29 路透：輝達逾4千億併Hugging Face　面臨反壟斷調查：https://www.cna.com.tw/news/ait/202610290109.aspx
+- 2026-10-29 US investigated Chinese spy plot aimed at Nvidia CEO：https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/
+- 2026-10-29 輝達支持京元電投資25億在美德州設半導體測試產能：https://www.cna.com.tw/news/afe/202610290345.aspx
+- 2026-10-29 Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction：https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/
+- 2026-10-29 Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round：https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/
 
 ## 相關網站
 - 標案王：https://www.bidking.tw/
