@@ -9,31 +9,31 @@
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-10-29 蘋果推首款觸控螢幕筆電　搭動態島售價9.79萬元起：https://www.cna.com.tw/news/ait/202610290028.aspx
+- 2026-10-28 Google expands AI Search ads globally as core ad growth slows：https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/
+- 2026-10-28 凌霄航太羅正方：無人機靠民主同盟打造韌性供應鏈：https://www.cna.com.tw/news/afe/202610280192.aspx
+- 2026-10-28 鴻勁：高階溫控和CPO設備明年貢獻營收　毛利率看升：https://www.cna.com.tw/news/afe/202610280333.aspx
+- 2026-10-28 日德設AI高層對話針對中國出口管制強化經濟安保：https://www.cna.com.tw/news/aopl/202610280321.aspx
+- 2026-10-28 台積電、美光加碼布局台中市府：兩大巨頭投資破兆：https://www.cna.com.tw/news/aloc/202610280235.aspx
+- 2026-10-28 新加坡科技創新週登場　台灣新創拓展投資合作機會：https://www.cna.com.tw/news/afe/202610280322.aspx
+- 2026-10-28 聯電估明年平均售價增10% 3年內AI營收比重拚25%：https://www.cna.com.tw/news/afe/202610280287.aspx
+- 2026-10-28 As AI agents reshape the web, Google opens Gemini and Search to more apps：https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/
+- 2026-10-28 台汽電串聯電力與算力布局AI能源服務：https://howlife.cna.com.tw/life/20261028s009.aspx
+- 2026-10-28 Anthropic估值上看2兆美元　阿莫戴等7創辦人將成億萬富豪：https://www.cna.com.tw/news/ait/202610280077.aspx
+- 2026-10-28 South Korea’s financial industry hit by fresh wave of cyberattacks：https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/
+- 2026-10-28 產業新尖兵補助訓練費 將首納付費訂閱AI：https://www.cna.com.tw/news/ahel/202610280069.aspx
+- 2026-10-28 日本對台鎳系不鏽鋼課反傾銷稅5年業者將設法申訴：https://www.cna.com.tw/news/afe/202610280257.aspx
+- 2026-10-28 Adam Mosseri says negativity around AI is ‘going to get worse’：https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity
+- 2026-10-28 日本鎖定台灣與中製鋼板 將徵5年反傾銷稅、稅率3.6%至42.1%：https://www.cna.com.tw/news/afe/202610280078.aspx
+- 2026-10-28 經部助扣件業走出關稅衝擊 209家導入AI工具：https://www.cna.com.tw/news/afe/202610280210.aspx
+- 2026-10-28 投審會核准371億僑外投資酷澎增資255億元最多：https://www.cna.com.tw/news/afe/202610280286.aspx
+- 2026-10-28 Microsoft is ending Copilot support on smart TVs：https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending
+- 2026-10-28 Creating AI value with enterprise context：https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/
+- 2026-10-28 彰化食品實力再升級！20家優良食品工廠脫穎而出：https://howlife.cna.com.tw/life/20261028s008.aspx
+- 2026-10-27 Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication：https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/
+- 2026-10-27 Bank of America kindly asks that you don’t share your banking password with your AI assistant：https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/
+- 2026-10-27 第10屆臺菲科技會議於菲律賓舉行 持續深化雙邊科研合作與人培鏈結：https://www.nstc.gov.tw/folksonomy/detail/18fd8bda-fe19-423a-8b60-fdb273d06e5c?l=ch
 - 2026-10-27 保險業前9月賺3977億元　壽險外匯避險比率40.95%：https://www.cna.com.tw/news/afe/202610270307.aspx
-- 2026-10-27 Disruptive raises $10B fund to make big bets on at least 10 companies：https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/
-- 2026-10-27 力成：考量合作晶圓廠先進封裝營收占比續增：https://www.cna.com.tw/news/afe/202610270200.aspx
-- 2026-10-27 立院關注夜間供電　台電：今年7至10月備轉全數綠燈：https://www.cna.com.tw/news/afe/202610270304.aspx
-- 2026-10-27 Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?：https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/
-- 2026-10-27 AI半導體和機器人帶動傳動氣動元件概念股勁揚：https://www.cna.com.tw/news/afe/202610270078.aspx
-- 2026-10-27 中國進博會開幕在即學者：短期可能減少貿易順差：https://www.cna.com.tw/news/acn/202610270315.aspx
-- 2026-10-27 鴻海科技日30日登場　鎖定AI智造機器人電動車：https://www.cna.com.tw/news/afe/202610270300.aspx
-- 2026-10-27 Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering：https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/
-- 2026-10-27 半導體需求強勁韓國第3季經濟成長超乎預期：https://www.cna.com.tw/news/aopl/202610270033.aspx
-- 2026-10-27 經部赴立院報告能源轉型　籲各界支持中油台電預算撥補：https://www.cna.com.tw/news/afe/202610270293.aspx
-- 2026-10-27 Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace：https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/
-- 2026-10-27 網家張瑜珊：對資安防護戒慎恐懼盼第4季營收續增：https://www.cna.com.tw/news/afe/202610270256.aspx
-- 2026-10-27 NSTC-新聞資料-第10屆臺菲科技會議於菲律賓舉行 持續深化雙邊科研合作與人培鏈結：https://www.nstc.gov.tw/folksonomy/detail/18fd8bda-fe19-423a-8b60-fdb273d06e5c?l=CH&utm_source=rss
-- 2026-10-27 美銀等4投行提供2兆多元融資　助Anthropic買博通晶片：https://www.cna.com.tw/news/aopl/202610270285.aspx
-- 2026-10-27 Japan internet giant GMO says hackers posted stolen customer data：https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/
-- 2026-10-27 台灣大布局先買後付導入AI風控　用戶年增近5成：https://www.cna.com.tw/news/afe/202610270277.aspx
-- 2026-10-27 Opera introduces a new web standard to let users deploy AI locally in their browser：https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/
-- 2026-10-27 國研院攜手汎銓科技突破EUV光阻分析技術：https://www.cna.com.tw/news/afe/202610270164.aspx
-- 2026-10-27 M6晶片加持　蘋果新MacBook Pro與iMac搶換機潮：https://www.cna.com.tw/news/ait/202610270316.aspx
-- 2026-10-27 General Compute raises $100 million Series A, countering the neocloud disaster narrative：https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/
-- 2026-10-27 宏偉擬11月上櫃看好AI擴廠新機潮 在手訂單增至3年：https://www.cna.com.tw/news/afe/202610270188.aspx
-- 2026-10-27 輝達投資Meta近1000億元　深化個人AI代理Muse合作：https://www.cna.com.tw/news/ait/202610270222.aspx
-- 2026-10-27 Nvidia backs Indian startup helping companies run AI models with fewer GPUs：https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/
-- 2026-10-27 力成：第4季AI扮成長要角價格效益助攻獲利：https://www.cna.com.tw/news/afe/202610270168.aspx
 
 ## 相關網站
 - 標案王：https://www.bidking.tw/
