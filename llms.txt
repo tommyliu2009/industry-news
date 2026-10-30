@@ -9,31 +9,31 @@
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-10-30 中國競爭美國關稅夾擊　奧迪再砍財測、不利福斯集團：https://www.cna.com.tw/news/aopl/202610300325.aspx
+- 2026-10-30 台灣去年ICT出口市占全球第3 電腦及周邊設備躍居第2：https://www.cna.com.tw/news/afe/202610300244.aspx
+- 2026-10-30 金管會：保險業人才需求轉向跨域　培育國際化戰略領袖：https://www.cna.com.tw/news/afe/202610300321.aspx
+- 2026-10-30 Google’s first data center satellite is online and writing poetry：https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/
+- 2026-10-30 英特爾以色列廠爆炸加劇供應短缺 股價暴跌21%：https://www.cna.com.tw/news/aopl/202610300020.aspx
+- 2026-10-30 李長庚：AI不會死只要算力稀缺台灣供應鏈仍有榮景：https://www.cna.com.tw/news/afe/202610300204.aspx
+- 2026-10-30 彭金隆：事前預防損失　保險業未來重大商機：https://www.cna.com.tw/news/afe/202610300300.aspx
+- 2026-10-30 鞏固台無人機供應鏈亞洲中心地位副總統提3大支柱：https://www.cna.com.tw/news/aipl/202610300124.aspx
+- 2026-10-30 馬斯克Neuralink發表2新品　助癱瘓者溝通視障者重見：https://www.cna.com.tw/news/ait/202610300298.aspx
+- 2026-10-30 DoorDash said it’s only received ‘several hundred’ orders from AI agents：https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/
+- 2026-10-30 中國綠能出口創新高　一年減碳可抵巴西整年碳排：https://www.cna.com.tw/news/ait/202610300131.aspx
+- 2026-10-30 AI淨零／ 台積電外氣空調箱洗滌技術升級 再省電60%：https://www.cna.com.tw/news/afe/202610300202.aspx
+- 2026-10-30 Can AI data centers be mass-produced like cars? This startup aims to find out：https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/
+- 2026-10-30 總統：助企業組聯合艦隊布局海外穩固國內產業發展：https://www.cna.com.tw/news/aipl/202610300161.aspx
+- 2026-10-30 出口投資超預期 第3季經濟成長率14.36%創48年同期最高：https://www.cna.com.tw/news/afe/202610300259.aspx
+- 2026-10-30 Sam Altman says it’s better for RAM to be in a data center than on your desk：https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers
+- 2026-10-30 The biggest names in AI are backing a new way to opt out of scraping：https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out
+- 2026-10-30 9月製造業景氣續亮黃紅燈AI需求強勁但成長動能趨緩：https://www.cna.com.tw/news/afe/202610300084.aspx
+- 2026-10-30 Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru：https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru
+- 2026-10-30 秀5G AI智慧地熱電廠台灣大覓跨國商機：https://www.cna.com.tw/news/afe/202610300277.aspx
+- 2026-10-30 Silicon Valley wants you to invest in miracles：https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles
+- 2026-10-30 碳封存首件場址探勘計畫獲准環境部通過台塑化提案：https://www.cna.com.tw/news/ahel/202610300058.aspx
+- 2026-10-30 Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop：https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview
 - 2026-10-30 全球能源價格高漲　歐洲12國承諾釋出4260萬桶戰略儲油：https://www.cna.com.tw/news/aopl/202610300007.aspx
-- 2026-10-29 As search traffic dries up, Reddit announces it’s shifting to a logged-in experience：https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/
-- 2026-10-29 TSIA：今年台灣半導體產值估逾9.1兆元 成長40.9%：https://www.cna.com.tw/news/afe/202610290199.aspx
-- 2026-10-29 瑞銀：台灣擁AI供應鏈優勢 估明年企業獲利成長37%：https://www.cna.com.tw/news/afe/202610290348.aspx
-- 2026-10-29 網通設備恐受PHP漏洞影響　資安署籲檢視設定儘速更新：https://www.cna.com.tw/news/afe/202610290387.aspx
-- 2026-10-29 Rivian expands joint venture with VW to include AI assistant：https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/
-- 2026-10-29 耐特擬11月中下旬上市半導體載具與BBU驅動成長：https://www.cna.com.tw/news/afe/202610290063.aspx
-- 2026-10-29 切入低軌衛星供應鏈昆桐興櫃首日漲幅逾倍：https://www.cna.com.tw/news/afe/202610290108.aspx
-- 2026-10-29 吉晟生將成首家上櫃核醫藥廠　TLC新藥布局日本：https://www.cna.com.tw/news/afe/202610290364.aspx
-- 2026-10-29 OpenAI-backed Thrive Holdings acquires ADT：https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/
-- 2026-10-29 侯永清：AI浪潮台IC設計不全弱　聯發科競爭力增強：https://www.cna.com.tw/news/afe/202610290362.aspx
-- 2026-10-29 Meta quietly launches an AI fashion app called Style Sketch：https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/
-- 2026-10-29 日月光上修先進封測營收再擴資本支出CPO營收看增：https://www.cna.com.tw/news/afe/202610290229.aspx
-- 2026-10-29 拚能源安全　菲律賓與新加坡探討電力互聯與核能合作：https://www.cna.com.tw/news/ait/202610290331.aspx
-- 2026-10-29 Granola crunches up a dictation feature to compete with Wispr：https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/
-- 2026-10-29 半導體需穩定供電TSIA侯永清：支持政府重啟核電廠評估計畫：https://www.cna.com.tw/news/afe/202610290170.aspx
-- 2026-10-29 jpp電力能源機構件第4季量產切入空巴A350供應鏈：https://www.cna.com.tw/news/afe/202610290295.aspx
-- 2026-10-29 美國紐約州祭新法　限制未滿18歲兒少使用AI聊天機器人：https://www.cna.com.tw/news/ait/202610290328.aspx
-- 2026-10-29 Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity：https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/
-- 2026-10-29 資安險上半年保費收入3.19億元半導體業占近半居冠：https://www.cna.com.tw/news/afe/202610290304.aspx
-- 2026-10-29 路透：輝達逾4千億併Hugging Face　面臨反壟斷調查：https://www.cna.com.tw/news/ait/202610290109.aspx
-- 2026-10-29 US investigated Chinese spy plot aimed at Nvidia CEO：https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/
-- 2026-10-29 輝達支持京元電投資25億在美德州設半導體測試產能：https://www.cna.com.tw/news/afe/202610290345.aspx
-- 2026-10-29 Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction：https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/
-- 2026-10-29 Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round：https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/
+- 2026-10-29 AWS will be a $1T business, Jassy says — but first, it will spend big：https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/
 
 ## 相關網站
 - 標案王：https://www.bidking.tw/
