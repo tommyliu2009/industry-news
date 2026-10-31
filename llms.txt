@@ -9,31 +9,31 @@
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-10-31 標普全球調降Meta信評展望至負向　AI支出與現金流引發疑慮：https://www.cna.com.tw/news/aopl/202610310125.aspx
+- 2026-10-31 OpenAI reportedly lowers funding target for new round：https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/
+- 2026-10-31 鴻海：盼合作台廠參與機器人標準制定：https://www.cna.com.tw/news/afe/202610310087.aspx
+- 2026-10-31 Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia：https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/
+- 2026-10-31 早安世界》台灣出口投資超預期第3季經濟成長率14.36%創48年同期最高：https://www.cna.com.tw/news/ahel/202610315001.aspx
+- 2026-10-31 鴻海亞灣超算：營運AIDC　電力和供應鏈管理成關鍵：https://www.cna.com.tw/news/afe/202610310076.aspx
+- 2026-10-31 東海大學71週年校慶校友捐1億元助建半導體大樓：https://www.cna.com.tw/news/ahel/202610310168.aspx
+- 2026-10-31 德日宣布深化核融合合作打造下一代能源供應鏈：https://www.cna.com.tw/news/aopl/202610310028.aspx
+- 2026-10-31 日對台直接投資近9億美元　日工商會：台日產業優勢互補：https://www.cna.com.tw/news/afe/202610310065.aspx
+- 2026-10-31 從愛迪生電燈泡到AI晶片　百年康寧深耕台灣改寫玻璃新定義【專訪】：https://www.cna.com.tw/news/afe/202610310032.aspx
+- 2026-10-31 美科技股大幅下修　蘋果超越輝達成全球最大企業：https://www.cna.com.tw/news/afe/202610310011.aspx
+- 2026-10-31 I built an AI Tamagotchi before Meta could：https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code
+- 2026-10-31 中國製造業景氣回落10月PMI跌至榮枯線以下：https://www.cna.com.tw/news/acn/202610310157.aspx
+- 2026-10-31 WTO貿易援助全球檢視大會國合會分享助友邦經驗：https://www.cna.com.tw/news/aipl/202610310038.aspx
+- 2026-10-31 巨鷗跨界集團參展 The AI Nexus：https://howlife.cna.com.tw/financial/20261031s001.aspx
+- 2026-10-31 歐盟加拿大推新聯盟援烏克蘭 深化關鍵礦產AI合作：https://www.cna.com.tw/news/aopl/202610310054.aspx
+- 2026-10-31 AI政見成關鍵雙北市長參選人搶攻智慧城市治理：https://www.cna.com.tw/news/aloc/202610310046.aspx
+- 2026-10-30 Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says：https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/
+- 2026-10-30 Cracks are emerging in the AI spending boom：https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/
+- 2026-10-30 東協財經／2026年10月30日東協快訊：https://www.cna.com.tw/news/afe/202610303003.aspx
+- 2026-10-30 股市與產業分開看劉揚偉：需求明確AI泡沫論站不住腳：https://www.cna.com.tw/news/afe/202610300205.aspx
+- 2026-10-30 發展地方特色產業嘉義瑞峰種植台灣原生山茶：https://www.cna.com.tw/news/aloc/202610300049.aspx
+- 2026-10-30 Apple Intelligence is finally coming to China with iOS 27.3：https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3
+- 2026-10-30 數發部林宜敬部長於北歐資安年會 Cyber Security Nordic 2026登 台演講、開拓臺芬資安產業商機：https://moda.gov.tw/ACS/press/news/press/21200
 - 2026-10-30 中國競爭美國關稅夾擊　奧迪再砍財測、不利福斯集團：https://www.cna.com.tw/news/aopl/202610300325.aspx
-- 2026-10-30 台灣去年ICT出口市占全球第3 電腦及周邊設備躍居第2：https://www.cna.com.tw/news/afe/202610300244.aspx
-- 2026-10-30 金管會：保險業人才需求轉向跨域　培育國際化戰略領袖：https://www.cna.com.tw/news/afe/202610300321.aspx
-- 2026-10-30 Google’s first data center satellite is online and writing poetry：https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/
-- 2026-10-30 英特爾以色列廠爆炸加劇供應短缺 股價暴跌21%：https://www.cna.com.tw/news/aopl/202610300020.aspx
-- 2026-10-30 李長庚：AI不會死只要算力稀缺台灣供應鏈仍有榮景：https://www.cna.com.tw/news/afe/202610300204.aspx
-- 2026-10-30 彭金隆：事前預防損失　保險業未來重大商機：https://www.cna.com.tw/news/afe/202610300300.aspx
-- 2026-10-30 鞏固台無人機供應鏈亞洲中心地位副總統提3大支柱：https://www.cna.com.tw/news/aipl/202610300124.aspx
-- 2026-10-30 馬斯克Neuralink發表2新品　助癱瘓者溝通視障者重見：https://www.cna.com.tw/news/ait/202610300298.aspx
-- 2026-10-30 DoorDash said it’s only received ‘several hundred’ orders from AI agents：https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/
-- 2026-10-30 中國綠能出口創新高　一年減碳可抵巴西整年碳排：https://www.cna.com.tw/news/ait/202610300131.aspx
-- 2026-10-30 AI淨零／ 台積電外氣空調箱洗滌技術升級 再省電60%：https://www.cna.com.tw/news/afe/202610300202.aspx
-- 2026-10-30 Can AI data centers be mass-produced like cars? This startup aims to find out：https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/
-- 2026-10-30 總統：助企業組聯合艦隊布局海外穩固國內產業發展：https://www.cna.com.tw/news/aipl/202610300161.aspx
-- 2026-10-30 出口投資超預期 第3季經濟成長率14.36%創48年同期最高：https://www.cna.com.tw/news/afe/202610300259.aspx
-- 2026-10-30 Sam Altman says it’s better for RAM to be in a data center than on your desk：https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers
-- 2026-10-30 The biggest names in AI are backing a new way to opt out of scraping：https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out
-- 2026-10-30 9月製造業景氣續亮黃紅燈AI需求強勁但成長動能趨緩：https://www.cna.com.tw/news/afe/202610300084.aspx
-- 2026-10-30 Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru：https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru
-- 2026-10-30 秀5G AI智慧地熱電廠台灣大覓跨國商機：https://www.cna.com.tw/news/afe/202610300277.aspx
-- 2026-10-30 Silicon Valley wants you to invest in miracles：https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles
-- 2026-10-30 碳封存首件場址探勘計畫獲准環境部通過台塑化提案：https://www.cna.com.tw/news/ahel/202610300058.aspx
-- 2026-10-30 Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop：https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview
-- 2026-10-30 全球能源價格高漲　歐洲12國承諾釋出4260萬桶戰略儲油：https://www.cna.com.tw/news/aopl/202610300007.aspx
-- 2026-10-29 AWS will be a $1T business, Jassy says — but first, it will spend big：https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/
 
 ## 相關網站
 - 標案王：https://www.bidking.tw/
