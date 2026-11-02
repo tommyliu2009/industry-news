@@ -9,31 +9,31 @@
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-11-02 彭博：美期中選舉添AI監管不確定因素牽動亞洲股巿和供應鏈：https://www.cna.com.tw/news/aopl/202611023002.aspx
-- 2026-11-01 獎勵青年地方創生　龔明鑫：若拓展海外經濟部可協助：https://www.cna.com.tw/news/afe/202611010162.aspx
-- 2026-11-01 AI can make tech CEOs’ lives easier. What about everyone else?：https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/
-- 2026-11-01 全球掀AI浪潮印度強調戰略自主盼躋身強權：https://www.cna.com.tw/news/aopl/202611013001.aspx
-- 2026-11-01 韓國受惠AI投資10月出口額近倍增創半世紀最大增幅：https://www.cna.com.tw/news/aopl/202611010160.aspx
-- 2026-11-01 美期中選舉民主黨若勝 川普關稅政策恐仍難推翻：https://www.cna.com.tw/news/aopl/202611010169.aspx
-- 2026-11-01 AI變現疑慮　葉俊顯：台灣以硬體為主、即便衝擊也屬短暫：https://www.cna.com.tw/news/afe/202611010159.aspx
-- 2026-11-01 金融三業前3季獲利破1.27兆締新猷　持續推高全年紀錄：https://www.cna.com.tw/news/afe/202611010080.aspx
-- 2026-11-01 AI通膨席捲手機市場　業者：價格壓力恐燒至2028年：https://www.cna.com.tw/news/afe/202611010029.aspx
-- 2026-11-01 家辦顧問業務開放落地全台　國銀搶灘AI新富與傳產傳承商機：https://www.cna.com.tw/news/afe/202611010020.aspx
-- 2026-11-01 四方外長關切經濟脅迫與產能過剩暗批中國：https://www.cna.com.tw/news/aopl/202611010002.aspx
-- 2026-11-01 黃偉哲任內出國55次南市府：城市外交與產業拓銷：https://www.cna.com.tw/news/aloc/202611010059.aspx
-- 2026-11-01 AI重塑技職價值全球中央探索教育變革：https://www.cna.com.tw/news/ahel/202611010012.aspx
-- 2026-11-01 北京A級商辦租金8年來幾腰斬無AI企業進駐商辦空置率大增：https://www.cna.com.tw/news/acn/202611010064.aspx
-- 2026-10-31 Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’：https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/
-- 2026-10-31 Judge allows NAACP lawsuit over xAI data center pollution to move forward：https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/
-- 2026-10-31 標普全球調降Meta信評展望至負向　AI支出與現金流引發疑慮：https://www.cna.com.tw/news/aopl/202610310125.aspx
-- 2026-10-31 OpenAI reportedly lowers funding target for new round：https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/
-- 2026-10-31 鴻海：盼合作台廠參與機器人標準制定：https://www.cna.com.tw/news/afe/202610310087.aspx
-- 2026-10-31 Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia：https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/
-- 2026-10-31 早安世界》台灣出口投資超預期第3季經濟成長率14.36%創48年同期最高：https://www.cna.com.tw/news/ahel/202610315001.aspx
-- 2026-10-31 鴻海亞灣超算：營運AIDC　電力和供應鏈管理成關鍵：https://www.cna.com.tw/news/afe/202610310076.aspx
-- 2026-10-31 東海大學71週年校慶校友捐1億元助建半導體大樓：https://www.cna.com.tw/news/ahel/202610310168.aspx
-- 2026-10-31 德日宣布深化核融合合作打造下一代能源供應鏈：https://www.cna.com.tw/news/aopl/202610310028.aspx
-- 2026-10-31 日對台直接投資近9億美元　日工商會：台日產業優勢互補：https://www.cna.com.tw/news/afe/202610310065.aspx
+- 2026-11-03 Anthropic第3季營收年增逾11倍　最快下週IPO：https://www.cna.com.tw/news/aopl/202611030002.aspx
+- 2026-11-02 New York Times and other outlets sue web browser Brave over alleged content scraping：https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/
+- 2026-11-02 旺宏sNOVA獲IEEE認證為台灣半導體生產奠定基礎：https://www.cna.com.tw/news/afe/202611020064.aspx
+- 2026-11-02 吳誠文：南科新園區明年啟動程序　因應1奈米晶圓廠建置需求：https://www.cna.com.tw/news/afe/202611020319.aspx
+- 2026-11-02 42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’：https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/
+- 2026-11-02 中油、台電承擔高額成本　國營司盼預算撥補穩定經營：https://www.cna.com.tw/news/afe/202611020291.aspx
+- 2026-11-02 Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs：https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/
+- 2026-11-02 中東能源應變小組持續調度油氣貨源 經濟部呼籲全民支持追加預算撥補方案：https://www.moea.gov.tw/Mns/cnc/news/News.aspx?kind=1&menu_id=10186&news_id=124434
+- 2026-11-02 國銀五大信賴產業放款9月底餘額破5.07兆　持續超標：https://www.cna.com.tw/news/afe/202611020277.aspx
+- 2026-11-02 Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition：https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/
+- 2026-11-02 AI淨零／環境部提碳費調整3方案審議委員會未獲共識：https://www.cna.com.tw/news/ahel/202611020269.aspx
+- 2026-11-02 東協財經／毅嘉10月營收年增21% 馬來西亞新廠光通訊產品量產：https://www.cna.com.tw/news/afe/202611020254.aspx
+- 2026-11-02 韓國2027預算案規模20兆創新高聚焦民生、AI及國防：https://www.cna.com.tw/news/aopl/202611020039.aspx
+- 2026-11-02 10月PMI 62.5%擴張趨緩　中經院：AI熱潮非一帆風順：https://www.cna.com.tw/news/afe/202611020224.aspx
+- 2026-11-02 OpenAI is finally merging ChatGPT’s Chat and Work tabs：https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/
+- 2026-11-02 學者：確保國安與產業競爭力支持強化晶片輸中管制：https://www.cna.com.tw/news/afe/202611020211.aspx
+- 2026-11-02 AI需求帶動　全球興建中核反應爐數量創車諾比核災後新高：https://www.cna.com.tw/news/ait/202611020228.aspx
+- 2026-11-02 帕蘭泰爾執行長：日本可在專守防衛AI取得優勢　有意供應自衛隊：https://www.cna.com.tw/news/aopl/202611020225.aspx
+- 2026-11-02 捷克代表：台捷相距遙遠但聯繫越發緊密：https://www.cna.com.tw/news/aipl/202611020298.aspx
+- 2026-11-02 耐特11/4起辦理競拍 底價每股62.5元：https://www.cna.com.tw/news/afe/202611020227.aspx
+- 2026-11-02 Anthropic clamps down on Claude’s AI video game clones：https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones
+- 2026-11-02 吳敏求：記憶體缺到2030年產能稀缺會做最好應用：https://www.cna.com.tw/news/afe/202611020208.aspx
+- 2026-11-02 OpenAI pitches data center power plants as a way to protect nearby areas：https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program
+- 2026-11-02 菲律賓參議員潘吉里南：台菲安全相連 盼深化民主經貿關係【專訪】：https://www.cna.com.tw/news/aopl/202611020294.aspx
+- 2026-11-02 日經：台灣與日本研擬全面性貿易協議最快年底簽署：https://www.cna.com.tw/news/aipl/202611020162.aspx
 
 ## 相關網站
 - 標案王：https://www.bidking.tw/
