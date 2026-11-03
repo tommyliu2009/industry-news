@@ -9,31 +9,31 @@
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-11-03 Anthropic第3季營收年增逾11倍　最快下週IPO：https://www.cna.com.tw/news/aopl/202611030002.aspx
-- 2026-11-02 New York Times and other outlets sue web browser Brave over alleged content scraping：https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/
-- 2026-11-02 旺宏sNOVA獲IEEE認證為台灣半導體生產奠定基礎：https://www.cna.com.tw/news/afe/202611020064.aspx
-- 2026-11-02 吳誠文：南科新園區明年啟動程序　因應1奈米晶圓廠建置需求：https://www.cna.com.tw/news/afe/202611020319.aspx
-- 2026-11-02 42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’：https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/
-- 2026-11-02 中油、台電承擔高額成本　國營司盼預算撥補穩定經營：https://www.cna.com.tw/news/afe/202611020291.aspx
-- 2026-11-02 Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs：https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/
-- 2026-11-02 中東能源應變小組持續調度油氣貨源 經濟部呼籲全民支持追加預算撥補方案：https://www.moea.gov.tw/Mns/cnc/news/News.aspx?kind=1&menu_id=10186&news_id=124434
-- 2026-11-02 國銀五大信賴產業放款9月底餘額破5.07兆　持續超標：https://www.cna.com.tw/news/afe/202611020277.aspx
-- 2026-11-02 Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition：https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/
-- 2026-11-02 AI淨零／環境部提碳費調整3方案審議委員會未獲共識：https://www.cna.com.tw/news/ahel/202611020269.aspx
-- 2026-11-02 東協財經／毅嘉10月營收年增21% 馬來西亞新廠光通訊產品量產：https://www.cna.com.tw/news/afe/202611020254.aspx
-- 2026-11-02 韓國2027預算案規模20兆創新高聚焦民生、AI及國防：https://www.cna.com.tw/news/aopl/202611020039.aspx
-- 2026-11-02 10月PMI 62.5%擴張趨緩　中經院：AI熱潮非一帆風順：https://www.cna.com.tw/news/afe/202611020224.aspx
-- 2026-11-02 OpenAI is finally merging ChatGPT’s Chat and Work tabs：https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/
-- 2026-11-02 學者：確保國安與產業競爭力支持強化晶片輸中管制：https://www.cna.com.tw/news/afe/202611020211.aspx
-- 2026-11-02 AI需求帶動　全球興建中核反應爐數量創車諾比核災後新高：https://www.cna.com.tw/news/ait/202611020228.aspx
-- 2026-11-02 帕蘭泰爾執行長：日本可在專守防衛AI取得優勢　有意供應自衛隊：https://www.cna.com.tw/news/aopl/202611020225.aspx
-- 2026-11-02 捷克代表：台捷相距遙遠但聯繫越發緊密：https://www.cna.com.tw/news/aipl/202611020298.aspx
-- 2026-11-02 耐特11/4起辦理競拍 底價每股62.5元：https://www.cna.com.tw/news/afe/202611020227.aspx
-- 2026-11-02 Anthropic clamps down on Claude’s AI video game clones：https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones
-- 2026-11-02 吳敏求：記憶體缺到2030年產能稀缺會做最好應用：https://www.cna.com.tw/news/afe/202611020208.aspx
-- 2026-11-02 OpenAI pitches data center power plants as a way to protect nearby areas：https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program
-- 2026-11-02 菲律賓參議員潘吉里南：台菲安全相連 盼深化民主經貿關係【專訪】：https://www.cna.com.tw/news/aopl/202611020294.aspx
-- 2026-11-02 日經：台灣與日本研擬全面性貿易協議最快年底簽署：https://www.cna.com.tw/news/aipl/202611020162.aspx
+- 2026-11-05 2026數位驅動下的商業服務業淨零轉型論壇：https://www.moea.gov.tw/Mns/populace/news/NewsActive.aspx?kind=4&menu_id=43&news_id=124433
+- 2026-11-03 Hiding inside Palantir’s skyrocketing quarter is a foreboding signal：https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/
+- 2026-11-03 長庚大學攜日本突破二維半導體瓶頸為次世代晶片奠基：https://www.cna.com.tw/news/ahel/202611030112.aspx
+- 2026-11-03 AI inference startup Fal doubles its valuation to $16B as demand surges：https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/
+- 2026-11-03 港府：出口成長加快內部需求穩健 香港第3季經濟成長5.2%：https://www.cna.com.tw/news/acn/202611030257.aspx
+- 2026-11-03 韓媒：三星德州二廠將為超微、輝達生產晶片零件：https://www.cna.com.tw/news/aopl/202611030328.aspx
+- 2026-11-03 Netflix’s new AI Discover tab helps you find something to watch based on your mood：https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/
+- 2026-11-03 台積電評估德州布局美半導體協會執行長：爭取延長投資稅務抵減：https://www.cna.com.tw/news/afe/202611030015.aspx
+- 2026-11-03 綠能資金募集不限融資　經部盼擴大至私募股權、REITs：https://www.cna.com.tw/news/afe/202611030327.aspx
+- 2026-11-03 Anthropic is still grappling with the economics of compute：https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/
+- 2026-11-03 瑞士與中國更新自貿協定 促進經濟、人權質疑引分歧：https://www.cna.com.tw/news/aopl/202611030314.aspx
+- 2026-11-03 Google will let schools disable its AI tools, but not without sacrificing Search：https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/
+- 2026-11-03 華新攜手世紀能源設備等台廠　成立華新世紀核能：https://www.cna.com.tw/news/afe/202611030301.aspx
+- 2026-11-03 Apple restricts dating apps and AI companions to users 18 and up：https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/
+- 2026-11-03 穩定幣發行資格　金管會：初期限定銀行或與金融業合資：https://www.cna.com.tw/news/afe/202611030293.aspx
+- 2026-11-03 輝達要求資料中心降低對中依賴　逾半雲端服務需供應非中企：https://www.cna.com.tw/news/ait/202611030199.aspx
+- 2026-11-03 OpenAI延攬美前陸軍部長德里斯科　出任國安事務顧問：https://www.cna.com.tw/news/aopl/202611030059.aspx
+- 2026-11-03 Apple Watch’s AI features for rewinding and recapping conversations begin beta testing：https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/
+- 2026-11-03 林佳龍投書「外交事務」 指美國AI雄心有賴台灣：https://www.cna.com.tw/news/aipl/202611030236.aspx
+- 2026-11-03 Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses：https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/
+- 2026-11-03 環球晶發5億美元可轉債美光全額認購深化10年合作：https://www.cna.com.tw/news/afe/202611030215.aspx
+- 2026-11-03 Apple may try to increase revenue by doing…something with third-party AI apps：https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/
+- 2026-11-03 Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens：https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/
+- 2026-11-03 Apple starts giving Siri AI access to third-party apps：https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps
+- 2026-11-03 Apple’s latest watchOS beta includes its new always-on Audio Intelligence features：https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta
 
 ## 相關網站
 - 標案王：https://www.bidking.tw/
