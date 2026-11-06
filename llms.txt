@@ -9,31 +9,31 @@
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-11-05 2026數位驅動下的商業服務業淨零轉型論壇：https://www.moea.gov.tw/Mns/populace/news/NewsActive.aspx?kind=4&menu_id=43&news_id=124433
-- 2026-11-04 貿易失衡疑慮不斷 上海進博會將首發「出口中國報告」：https://www.cna.com.tw/news/acn/202611040135.aspx
-- 2026-11-04 谷歌投資大馬150億美元　安華：助躍升東南亞數位強國：https://www.cna.com.tw/news/aopl/202611040372.aspx
-- 2026-11-04 DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy：https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/
-- 2026-11-04 傳美限制對中晶片設備出口SK海力士紐約投資計畫受阻：https://www.cna.com.tw/news/aopl/202611040024.aspx
-- 2026-11-04 志聖換股增持視動至75.06%　布局先進封裝設備軟體：https://www.cna.com.tw/news/afe/202611040353.aspx
-- 2026-11-04 I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling：https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/
-- 2026-11-04 超微估明年AI成長確保供應鏈穩定封測台廠搭順風車：https://www.cna.com.tw/news/afe/202611040108.aspx
-- 2026-11-04 超商雙雄前3季營收創同期新高　均賺逾半個股本：https://www.cna.com.tw/news/afe/202611040346.aspx
-- 2026-11-04 控制權未解法律戰升級 安世半導體控告聞泰科技索賠逾650億：https://www.cna.com.tw/news/acn/202611040062.aspx
-- 2026-11-04 中科院與美商DTC深化合作建構國防通信在台供應鏈：https://www.cna.com.tw/news/aipl/202611040230.aspx
-- 2026-11-04 聯發科延攬英特爾前主管　深化供應鏈夥伴合作：https://www.cna.com.tw/news/afe/202611040344.aspx
-- 2026-11-04 迎戰AI半導體電力需求曾文生：未來10年增6成供電能力：https://www.cna.com.tw/news/afe/202611040132.aspx
-- 2026-11-04 騰訊發布新一代大語言模型Hy4　首增視覺理解將開源：https://www.cna.com.tw/news/ait/202611040339.aspx
-- 2026-11-04 前輝達韓國代表俞應浚揭密企業文化　7年任職收穫多【專訪】：https://www.cna.com.tw/news/ait/202611040130.aspx
-- 2026-11-04 蘋果繁中Siri AI開放測試　專家：積極布局華文市場：https://www.cna.com.tw/news/ait/202611040096.aspx
-- 2026-11-04 台荷攜手4項跨國研發合作布局先進光子封裝、AI資料中心：https://www.cna.com.tw/news/afe/202611040086.aspx
-- 2026-11-04 中國世界互聯網大會：關切AI加劇國家數位落差問題：https://www.cna.com.tw/news/acn/202611040095.aspx
-- 2026-11-04 台灣太空國際年會8日登場是德科技支持台發展衛星產業：https://www.cna.com.tw/news/afe/202611040091.aspx
-- 2026-11-04 蘋果iOS 27.3開發者測試版上線　Siri AI支援繁中：https://www.cna.com.tw/news/ait/202611040028.aspx
-- 2026-11-04 Gemini for Home now plugs into AT&T’s smart security system：https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system
-- 2026-11-04 智慧局專利分析競賽70隊參賽企業出題團隊解題促雙贏：https://www.cna.com.tw/news/afe/202611040217.aspx
-- 2026-11-04 Nothing teases a screen-free AI device ahead of launch next month：https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei
-- 2026-11-04 捷迅前3季賺贏去年全年空運強勁海運有撐：https://www.cna.com.tw/news/afe/202611040137.aspx
-- 2026-11-04 My therapist thinks I should chuck the Amazon Bee Frontier out a window：https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables
+- 2026-11-07 傳台積電進軍3D DRAM　應輝達要求規劃製造、評估建廠：https://www.cna.com.tw/news/ait/202611070002.aspx
+- 2026-11-06 Hundreds of Artex AI hacking tools found publicly exposed to the web：https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/
+- 2026-11-06 美期中選舉衝擊AI前景　全球股市市值一天蒸發115兆元：https://www.cna.com.tw/news/afe/202611060340.aspx
+- 2026-11-06 Meta introduces Spaces, a new way to collaborate with your Muse agent：https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/
+- 2026-11-06 避開美國出口管制中國AI新創月之暗面轉向歐洲租輝達晶片算力：https://www.cna.com.tw/news/aopl/202611060006.aspx
+- 2026-11-06 榮昌：看好IoT等智能應用　攻加州、德州網通基建市場：https://www.cna.com.tw/news/afe/202611060321.aspx
+- 2026-11-06 華航前3季營收、淨利創同期新高　每股賺1.8元：https://www.cna.com.tw/news/afe/202611060306.aspx
+- 2026-11-06 經濟部攜手美國啟動臺美產業創新研發合作平台 加速科技產業應用 深化供應鏈關係：https://www.moea.gov.tw/Mns/doit/news/News.aspx?kind=1&menu_id=13419&news_id=124492
+- 2026-11-06 中鋼擬投資逾10億　推動固態氧化物燃料電池及碳捕捉與利用：https://www.cna.com.tw/news/afe/202611060302.aspx
+- 2026-11-06 Ramp data shows AI spending stalling just as Anthropic nears its IPO：https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/
+- 2026-11-06 IREN延後交付微軟AI基礎設施　宣布追加150億美元投資：https://www.cna.com.tw/news/ait/202611060121.aspx
+- 2026-11-06 After blocking Muse, Amazon now lets users text Alexa to help them shop：https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/
+- 2026-11-06 美國民主黨重掌國會泰國總理：盼川普信守關稅待遇承諾：https://www.cna.com.tw/news/aopl/202611060092.aspx
+- 2026-11-06 Underdog shows off a 32MB speech model in new demo：https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/
+- 2026-11-06 Physicl raises $10M to make the digital world real enough for robots：https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/
+- 2026-11-06 Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M：https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/
+- 2026-11-06 數產署率8家電子簽章業者展示解決方案促進商機媒合：https://www.cna.com.tw/news/afe/202611060130.aspx
+- 2026-11-06 台灣219家企業參展AAPEX 促成逾6000萬美元商機：https://www.cna.com.tw/news/afe/202611060132.aspx
+- 2026-11-06 Amazon will let you text Alexa your shopping list：https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders
+- 2026-11-06 台美產業創新研發合作平台啟動深化產業鏈結：https://www.cna.com.tw/news/afe/202611060202.aspx
+- 2026-11-06 Protesters break into Microsoft data center site in Amsterdam：https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam
+- 2026-11-06 OpenAI is stepping back from NDAs for data center projects：https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda
+- 2026-11-05 進博會首發出口能力報告學者：教你賣東西給中國：https://www.cna.com.tw/news/acn/202611050320.aspx
+- 2026-11-05 東海大學半導體論壇張國恩：教育是第2座護國神山：https://www.cna.com.tw/news/ahel/202611050146.aspx
+- 2026-11-05 中國管制稀土出口日本 氧化釔1至9月驟減98%：https://www.cna.com.tw/news/acn/202611050311.aspx
 
 ## 相關網站
 - 標案王：https://www.bidking.tw/
