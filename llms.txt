@@ -9,31 +9,31 @@
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-08 辛辛那提大學放映造山者　蔡明介盼創造更多半導體黃金年代：https://www.cna.com.tw/news/afe/202611080195.aspx
+- 2026-11-08 Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy：https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/
+- 2026-11-08 AI淨零／COP31將登場環境部同步啟動論壇掌握資訊：https://www.cna.com.tw/news/ahel/202611080023.aspx
+- 2026-11-08 中國新能源汽車出口大增有隱憂未來3年售後服務壓力湧現：https://www.cna.com.tw/news/acn/202611080067.aspx
+- 2026-11-08 太空產業博覽會台南登場　112家廠商齊聚展實力：https://www.cna.com.tw/news/afe/202611080174.aspx
+- 2026-11-08 學童創意演繹節能觀念　經濟部盼攜手全民邁向淨零：https://www.cna.com.tw/news/afe/202611080170.aspx
+- 2026-11-08 Nvidia is investigating Jensen Huang’s relationship with a Chinese spy：https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy
+- 2026-11-08 台灣茶香融入精釀啤酒　大馬業者盼合作釀出新風味：https://www.cna.com.tw/news/aopl/202611080152.aspx
+- 2026-11-08 Apple is racing to make Siri more agentic：https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic
+- 2026-11-08 奇鋐10月營收221億元年增34%　連3個月創新高：https://www.cna.com.tw/news/afe/202611080113.aspx
+- 2026-11-08 Elvis and Eminem rights holders are suing Suno：https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit
+- 2026-11-08 台塑石化：9日起汽柴油不漲價：https://www.cna.com.tw/news/ahel/202611080082.aspx
+- 2026-11-08 美國AI監管疑慮升高　投信：亞洲科技股面臨估值壓力：https://www.cna.com.tw/news/afe/202611080016.aspx
+- 2026-11-08 儒鴻看好美國退稅與期中選後2利多今年營運戰新高：https://www.cna.com.tw/news/afe/202611080020.aspx
+- 2026-11-08 宇樹長鑫股價重挫港媒：AI熱退潮疑從股市開始：https://www.cna.com.tw/news/acn/202611080190.aspx
 - 2026-11-08 幣安財務長將離職　支付平台Airwallex高層接任：https://www.cna.com.tw/news/aopl/202611080004.aspx
+- 2026-11-07 After the midterms, things are looking rocky for Elon Musk and data centers：https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/
+- 2026-11-07 稀土成美中貿易角力焦點 美喊話中國「全面且立即」履約：https://www.cna.com.tw/news/aopl/202611070010.aspx
+- 2026-11-07 國軍將汰換中型戰術輪車學者：越野能力至關重要：https://www.cna.com.tw/news/aipl/202611070105.aspx
+- 2026-11-07 國際油價續處高檔中油：9日起汽柴油價格維持不調整：https://www.cna.com.tw/news/ahel/202611070135.aspx
 - 2026-11-07 義大利台灣青商會邀企業家座談 促台義AI與經貿合作：https://www.cna.com.tw/news/afe/202611070190.aspx
 - 2026-11-07 Crusoe sells troubled Wyoming data center project to Google：https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/
 - 2026-11-07 碳化矽晶圓中國低價搶市 安森美取消655億捷克擴廠：https://www.cna.com.tw/news/aopl/202611070185.aspx
 - 2026-11-07 傳台積電布局3D DRAM 專家：應會以共同開發或驗證為主：https://www.cna.com.tw/news/afe/202611070109.aspx
 - 2026-11-07 輝達RTX Spark掀話題　分析師：普及仍需時間：https://www.cna.com.tw/news/afe/202611070023.aspx
-- 2026-11-07 The US let Nvidia sell chips to an empty office in China：https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government
-- 2026-11-07 一台20萬搶破頭　輝達RTX Spark打破PC傳統界線：https://www.cna.com.tw/news/afe/202611070021.aspx
-- 2026-11-07 Why a new report on Anthropic automating AI development is alarming researchers：https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development
-- 2026-11-07 傳微軟逐步終止租用甲骨文AI算力　重新評估雲端合作：https://www.cna.com.tw/news/ait/202611070005.aspx
-- 2026-11-07 外媒團來訪 外交部：盼各國支持台灣入CPTPP：https://www.cna.com.tw/news/aipl/202611070042.aspx
-- 2026-11-07 中鋼投資10多億布局低碳發電預計2年後完工：https://www.cna.com.tw/news/aloc/202611070116.aspx
-- 2026-11-07 北科大派學生赴美取經AI 實戰養成工程解題力：https://www.cna.com.tw/news/ahel/202611070060.aspx
-- 2026-11-07 美民主黨明年1月掌國會擬推大批AI與資料中心法案：https://www.cna.com.tw/news/aopl/202611070086.aspx
-- 2026-11-07 海廢治理展高雄登場AI與3D光影體驗海廢循環：https://www.cna.com.tw/news/aloc/202611070188.aspx
-- 2026-11-07 傳台積電進軍3D DRAM　應輝達要求規劃製造、評估建廠：https://www.cna.com.tw/news/ait/202611070002.aspx
-- 2026-11-06 OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation：https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/
-- 2026-11-06 日股狂瀉盤中跌破5萬7000點 AI泡沫疑慮引爆賣壓：https://www.cna.com.tw/news/afe/202611060159.aspx
-- 2026-11-06 China reportedly recruited AI exec to spy on Jensen Huang：https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy
-- 2026-11-06 I watched a humanoid robot clean my apartment. It felt like a taste of the future.：https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/
-- 2026-11-06 東協財經／佳世達因應興建計畫增資越南子公司1000萬美元：https://www.cna.com.tw/news/afe/202611063008.aspx
-- 2026-11-06 油價波動加劇台化：嚴控庫存避免高價原料侵蝕利益：https://www.cna.com.tw/news/afe/202611060218.aspx
-- 2026-11-06 AI淨零／駐波蘭代表劉永健投書籲挺台參與聯合國氣候公約：https://www.cna.com.tw/news/aipl/202611060326.aspx
-- 2026-11-06 How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks：https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/
-- 2026-11-06 東協財經／2026年11月6日東協快訊：https://www.cna.com.tw/news/afe/202611063005.aspx
 
 ## 相關網站
 - 標案王：https://www.bidking.tw/
