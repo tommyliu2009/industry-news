@@ -9,31 +9,31 @@
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-11-08 辛辛那提大學放映造山者　蔡明介盼創造更多半導體黃金年代：https://www.cna.com.tw/news/afe/202611080195.aspx
-- 2026-11-08 Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy：https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/
-- 2026-11-08 AI淨零／COP31將登場環境部同步啟動論壇掌握資訊：https://www.cna.com.tw/news/ahel/202611080023.aspx
-- 2026-11-08 中國新能源汽車出口大增有隱憂未來3年售後服務壓力湧現：https://www.cna.com.tw/news/acn/202611080067.aspx
-- 2026-11-08 太空產業博覽會台南登場　112家廠商齊聚展實力：https://www.cna.com.tw/news/afe/202611080174.aspx
-- 2026-11-08 學童創意演繹節能觀念　經濟部盼攜手全民邁向淨零：https://www.cna.com.tw/news/afe/202611080170.aspx
-- 2026-11-08 Nvidia is investigating Jensen Huang’s relationship with a Chinese spy：https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy
-- 2026-11-08 台灣茶香融入精釀啤酒　大馬業者盼合作釀出新風味：https://www.cna.com.tw/news/aopl/202611080152.aspx
-- 2026-11-08 Apple is racing to make Siri more agentic：https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic
-- 2026-11-08 奇鋐10月營收221億元年增34%　連3個月創新高：https://www.cna.com.tw/news/afe/202611080113.aspx
-- 2026-11-08 Elvis and Eminem rights holders are suing Suno：https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit
-- 2026-11-08 台塑石化：9日起汽柴油不漲價：https://www.cna.com.tw/news/ahel/202611080082.aspx
-- 2026-11-08 美國AI監管疑慮升高　投信：亞洲科技股面臨估值壓力：https://www.cna.com.tw/news/afe/202611080016.aspx
-- 2026-11-08 儒鴻看好美國退稅與期中選後2利多今年營運戰新高：https://www.cna.com.tw/news/afe/202611080020.aspx
-- 2026-11-08 宇樹長鑫股價重挫港媒：AI熱退潮疑從股市開始：https://www.cna.com.tw/news/acn/202611080190.aspx
-- 2026-11-08 幣安財務長將離職　支付平台Airwallex高層接任：https://www.cna.com.tw/news/aopl/202611080004.aspx
-- 2026-11-07 After the midterms, things are looking rocky for Elon Musk and data centers：https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/
-- 2026-11-07 稀土成美中貿易角力焦點 美喊話中國「全面且立即」履約：https://www.cna.com.tw/news/aopl/202611070010.aspx
-- 2026-11-07 國軍將汰換中型戰術輪車學者：越野能力至關重要：https://www.cna.com.tw/news/aipl/202611070105.aspx
-- 2026-11-07 國際油價續處高檔中油：9日起汽柴油價格維持不調整：https://www.cna.com.tw/news/ahel/202611070135.aspx
-- 2026-11-07 義大利台灣青商會邀企業家座談 促台義AI與經貿合作：https://www.cna.com.tw/news/afe/202611070190.aspx
-- 2026-11-07 Crusoe sells troubled Wyoming data center project to Google：https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/
-- 2026-11-07 碳化矽晶圓中國低價搶市 安森美取消655億捷克擴廠：https://www.cna.com.tw/news/aopl/202611070185.aspx
-- 2026-11-07 傳台積電布局3D DRAM 專家：應會以共同開發或驗證為主：https://www.cna.com.tw/news/afe/202611070109.aspx
-- 2026-11-07 輝達RTX Spark掀話題　分析師：普及仍需時間：https://www.cna.com.tw/news/afe/202611070023.aspx
+- 2026-11-09 金融時報：新加坡超越愛爾蘭　成為蘋果最大避稅地：https://www.cna.com.tw/news/aopl/202611090293.aspx
+- 2026-11-09 Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy：https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/
+- 2026-11-09 日經：安華爭議發言後台灣取消與大馬貿易會談恐傷半導體投資：https://www.cna.com.tw/news/aopl/202611090250.aspx
+- 2026-11-09 財部：前10月對美出口占比31.7% 寫近36年同期新高：https://www.cna.com.tw/news/afe/202611090215.aspx
+- 2026-11-09 Anthropic releases new Mythos and Fable models amid RSI concerns：https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/
+- 2026-11-09 財部：今年台灣出口規模將超越日本 世界排名「坐8望7」：https://www.cna.com.tw/news/afe/202611090234.aspx
+- 2026-11-09 Google擴展第8代TPU陣容　迎AI代理算力爆發期：https://www.cna.com.tw/news/afe/202611090282.aspx
+- 2026-11-09 AI需求暢旺10月出口967.6億美元創歷年單月最高：https://www.cna.com.tw/news/afe/202611090158.aspx
+- 2026-11-09 同欣電擬砸近20億元　收購新加坡GTC全數股權：https://www.cna.com.tw/news/afe/202611090279.aspx
+- 2026-11-09 Meta releases Muse Ember, a new lightweight model for agent execution：https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/
+- 2026-11-09 黃仁勳婚外情衝擊？供應鏈：AI需求無虞觀察美監管力道：https://www.cna.com.tw/news/afe/202611090067.aspx
+- 2026-11-09 對美出口管制、不可靠實體清單中國繼續暫停2個月：https://www.cna.com.tw/news/acn/202611090261.aspx
+- 2026-11-09 韓中電磁鋼品與中國鋁箔涉傾銷　經部認定國內產業損害：https://www.cna.com.tw/news/afe/202611090278.aspx
+- 2026-11-09 Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines：https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/
+- 2026-11-09 來頡：供應鏈產能緊成本升擬增供應商與客戶議價：https://www.cna.com.tw/news/afe/202611090172.aspx
+- 2026-11-09 台星新創交流計畫助攻　6家設立公司創1.35億元商機：https://www.cna.com.tw/news/afe/202611090275.aspx
+- 2026-11-09 Medium’s new TK app brings AI assistance directly into the writing process：https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/
+- 2026-11-09 輝達H200晶片銷中轉折時間軸一覽黃仁勳遊說為關鍵：https://www.cna.com.tw/news/aopl/202611090088.aspx
+- 2026-11-09 遠傳攜手文策院　10個月投資影視、音樂展演15案：https://www.cna.com.tw/news/afe/202611090273.aspx
+- 2026-11-09 Automattic debuts a platform to deploy vibe-coding apps amid a changing internet：https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/
+- 2026-11-09 台經院上修今年經濟成長預測值至12.34% AI軍備競賽轉為穩健成長：https://www.cna.com.tw/news/afe/202611090062.aspx
+- 2026-11-09 台灣太空國際年會　鐳洋秀黑鳶系列8U立方衛星等比例模型：https://www.cna.com.tw/news/afe/202611090271.aspx
+- 2026-11-09 澳洲網路法案擴大監管　谷歌：恐迫使未滿18歲者停用Gmail：https://www.cna.com.tw/news/aopl/202611090270.aspx
+- 2026-11-09 佳世達：資料中心建置放緩經濟仍成長　AI伺服器明年放量：https://www.cna.com.tw/news/afe/202611090265.aspx
+- 2026-11-09 Apple’s $50 Intelligence Usage Packs extend access to some AI features：https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro
 
 ## 相關網站
 - 標案王：https://www.bidking.tw/
