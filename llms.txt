@@ -9,31 +9,31 @@
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-11-09 金融時報：新加坡超越愛爾蘭　成為蘋果最大避稅地：https://www.cna.com.tw/news/aopl/202611090293.aspx
-- 2026-11-09 Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy：https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/
-- 2026-11-09 日經：安華爭議發言後台灣取消與大馬貿易會談恐傷半導體投資：https://www.cna.com.tw/news/aopl/202611090250.aspx
-- 2026-11-09 財部：前10月對美出口占比31.7% 寫近36年同期新高：https://www.cna.com.tw/news/afe/202611090215.aspx
-- 2026-11-09 Anthropic releases new Mythos and Fable models amid RSI concerns：https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/
-- 2026-11-09 財部：今年台灣出口規模將超越日本 世界排名「坐8望7」：https://www.cna.com.tw/news/afe/202611090234.aspx
-- 2026-11-09 Google擴展第8代TPU陣容　迎AI代理算力爆發期：https://www.cna.com.tw/news/afe/202611090282.aspx
-- 2026-11-09 AI需求暢旺10月出口967.6億美元創歷年單月最高：https://www.cna.com.tw/news/afe/202611090158.aspx
-- 2026-11-09 同欣電擬砸近20億元　收購新加坡GTC全數股權：https://www.cna.com.tw/news/afe/202611090279.aspx
-- 2026-11-09 Meta releases Muse Ember, a new lightweight model for agent execution：https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/
-- 2026-11-09 黃仁勳婚外情衝擊？供應鏈：AI需求無虞觀察美監管力道：https://www.cna.com.tw/news/afe/202611090067.aspx
-- 2026-11-09 對美出口管制、不可靠實體清單中國繼續暫停2個月：https://www.cna.com.tw/news/acn/202611090261.aspx
-- 2026-11-09 韓中電磁鋼品與中國鋁箔涉傾銷　經部認定國內產業損害：https://www.cna.com.tw/news/afe/202611090278.aspx
-- 2026-11-09 Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines：https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/
-- 2026-11-09 來頡：供應鏈產能緊成本升擬增供應商與客戶議價：https://www.cna.com.tw/news/afe/202611090172.aspx
-- 2026-11-09 台星新創交流計畫助攻　6家設立公司創1.35億元商機：https://www.cna.com.tw/news/afe/202611090275.aspx
-- 2026-11-09 Medium’s new TK app brings AI assistance directly into the writing process：https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/
-- 2026-11-09 輝達H200晶片銷中轉折時間軸一覽黃仁勳遊說為關鍵：https://www.cna.com.tw/news/aopl/202611090088.aspx
-- 2026-11-09 遠傳攜手文策院　10個月投資影視、音樂展演15案：https://www.cna.com.tw/news/afe/202611090273.aspx
-- 2026-11-09 Automattic debuts a platform to deploy vibe-coding apps amid a changing internet：https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/
-- 2026-11-09 台經院上修今年經濟成長預測值至12.34% AI軍備競賽轉為穩健成長：https://www.cna.com.tw/news/afe/202611090062.aspx
-- 2026-11-09 台灣太空國際年會　鐳洋秀黑鳶系列8U立方衛星等比例模型：https://www.cna.com.tw/news/afe/202611090271.aspx
-- 2026-11-09 澳洲網路法案擴大監管　谷歌：恐迫使未滿18歲者停用Gmail：https://www.cna.com.tw/news/aopl/202611090270.aspx
-- 2026-11-09 佳世達：資料中心建置放緩經濟仍成長　AI伺服器明年放量：https://www.cna.com.tw/news/afe/202611090265.aspx
-- 2026-11-09 Apple’s $50 Intelligence Usage Packs extend access to some AI features：https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro
+- 2026-11-11 分析：合格碳權供不應求　全球航空業減排面臨窘境：https://www.cna.com.tw/news/afe/202611110007.aspx
+- 2026-11-10 OpenAI Acquires Odessia, travel startup created by Sonder founder：https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/
+- 2026-11-10 日月光投控連4個月營收創高AI先進封測助攻：https://www.cna.com.tw/news/afe/202611100214.aspx
+- 2026-11-10 中國10月出口年增35.2%勝預期前10月順差逾1兆美元：https://www.cna.com.tw/news/acn/202611100139.aspx
+- 2026-11-10 OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect：https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/
+- 2026-11-10 川習APEC峰會鋪路中國延長暫停稀土等出口管制2個月：https://www.cna.com.tw/news/acn/202611100073.aspx
+- 2026-11-10 All 7 Anthropic founders will each cash out about $250M in IPO：https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/
+- 2026-11-10 中科前9月出口額逾7585億全年營收預估再破兆：https://www.cna.com.tw/news/afe/202611100167.aspx
+- 2026-11-10 Anthropic將在美IPO　估值上看1.4兆美元：https://www.cna.com.tw/news/aopl/202611100361.aspx
+- 2026-11-10 Oura to acquire AI-native primary care startup Counsel Health for $625M：https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/
+- 2026-11-10 台馬經貿會議傳遭擱置大馬業界：獲知延後非取消：https://www.cna.com.tw/news/aipl/202611100364.aspx
+- 2026-11-10 美擬禁中製資料中心關鍵零件進口　傳微軟向川普政府施壓要求擱置：https://www.cna.com.tw/news/aopl/202611100351.aspx
+- 2026-11-10 PSI is trying to make a business out of AI-driven scientific discovery：https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/
+- 2026-11-10 CNN探討輝達失去黃仁勳能否生存　專家評估仍具優勢：https://www.cna.com.tw/news/aopl/202611100350.aspx
+- 2026-11-10 OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google：https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/
+- 2026-11-10 科研案例- 科研成果：https://www.moea.gov.tw/MNS/doit/achievement/AchieveCase.aspx?menu_id=5391&ac_id=1856
+- 2026-11-10 泰國台商投資講座聚焦跨國人才稅務　盼深化雙邊經貿：https://www.cna.com.tw/news/aipl/202611100343.aspx
+- 2026-11-10 Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks：https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/
+- 2026-11-10 黃仁勳婚外情掀國安疑慮中國學者：美對中AI晶片出口恐收緊：https://www.cna.com.tw/news/acn/202611100166.aspx
+- 2026-11-10 中信銀：企業家族參與影響力投資　盼找到下一個隱形冠軍：https://www.cna.com.tw/news/afe/202611100337.aspx
+- 2026-11-10 黃仁勳婚外情掀晶片管制漏洞學者：美可能要求東南亞嚴查科技供應鏈：https://www.cna.com.tw/news/aopl/202611100122.aspx
+- 2026-11-10 Diraq開發矽量子晶片　可望解決AI資料中心用電問題：https://www.cna.com.tw/news/ait/202611100352.aspx
+- 2026-11-10 Google broadens its AI hardware portfolio with two new specialized chips：https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/
+- 2026-11-10 防青少年謊報年齡　Meta擴大全球AI偵測：https://www.cna.com.tw/news/ait/202611100194.aspx
+- 2026-11-10 Meta’s AI agent Muse lands on Apple Watch and Android Wear OS：https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/
 
 ## 相關網站
 - 標案王：https://www.bidking.tw/
