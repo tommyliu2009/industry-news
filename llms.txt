@@ -9,31 +9,31 @@
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-11-11 分析：合格碳權供不應求　全球航空業減排面臨窘境：https://www.cna.com.tw/news/afe/202611110007.aspx
-- 2026-11-10 OpenAI Acquires Odessia, travel startup created by Sonder founder：https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/
-- 2026-11-10 日月光投控連4個月營收創高AI先進封測助攻：https://www.cna.com.tw/news/afe/202611100214.aspx
-- 2026-11-10 中國10月出口年增35.2%勝預期前10月順差逾1兆美元：https://www.cna.com.tw/news/acn/202611100139.aspx
-- 2026-11-10 OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect：https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/
-- 2026-11-10 川習APEC峰會鋪路中國延長暫停稀土等出口管制2個月：https://www.cna.com.tw/news/acn/202611100073.aspx
-- 2026-11-10 All 7 Anthropic founders will each cash out about $250M in IPO：https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/
-- 2026-11-10 中科前9月出口額逾7585億全年營收預估再破兆：https://www.cna.com.tw/news/afe/202611100167.aspx
-- 2026-11-10 Anthropic將在美IPO　估值上看1.4兆美元：https://www.cna.com.tw/news/aopl/202611100361.aspx
-- 2026-11-10 Oura to acquire AI-native primary care startup Counsel Health for $625M：https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/
-- 2026-11-10 台馬經貿會議傳遭擱置大馬業界：獲知延後非取消：https://www.cna.com.tw/news/aipl/202611100364.aspx
-- 2026-11-10 美擬禁中製資料中心關鍵零件進口　傳微軟向川普政府施壓要求擱置：https://www.cna.com.tw/news/aopl/202611100351.aspx
-- 2026-11-10 PSI is trying to make a business out of AI-driven scientific discovery：https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/
-- 2026-11-10 CNN探討輝達失去黃仁勳能否生存　專家評估仍具優勢：https://www.cna.com.tw/news/aopl/202611100350.aspx
-- 2026-11-10 OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google：https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/
-- 2026-11-10 科研案例- 科研成果：https://www.moea.gov.tw/MNS/doit/achievement/AchieveCase.aspx?menu_id=5391&ac_id=1856
-- 2026-11-10 泰國台商投資講座聚焦跨國人才稅務　盼深化雙邊經貿：https://www.cna.com.tw/news/aipl/202611100343.aspx
-- 2026-11-10 Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks：https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/
-- 2026-11-10 黃仁勳婚外情掀國安疑慮中國學者：美對中AI晶片出口恐收緊：https://www.cna.com.tw/news/acn/202611100166.aspx
-- 2026-11-10 中信銀：企業家族參與影響力投資　盼找到下一個隱形冠軍：https://www.cna.com.tw/news/afe/202611100337.aspx
-- 2026-11-10 黃仁勳婚外情掀晶片管制漏洞學者：美可能要求東南亞嚴查科技供應鏈：https://www.cna.com.tw/news/aopl/202611100122.aspx
-- 2026-11-10 Diraq開發矽量子晶片　可望解決AI資料中心用電問題：https://www.cna.com.tw/news/ait/202611100352.aspx
-- 2026-11-10 Google broadens its AI hardware portfolio with two new specialized chips：https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/
-- 2026-11-10 防青少年謊報年齡　Meta擴大全球AI偵測：https://www.cna.com.tw/news/ait/202611100194.aspx
-- 2026-11-10 Meta’s AI agent Muse lands on Apple Watch and Android Wear OS：https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/
+- 2026-11-12 研調：Anthropic掛牌日散戶買超可能破SpaceX紀錄：https://www.cna.com.tw/news/aopl/202611120007.aspx
+- 2026-11-12 Baird調降輝達股票評等至「中立」　目標價大砍60%：https://www.cna.com.tw/news/aopl/202611120006.aspx
+- 2026-11-11 泰美關稅談判原則達共識細節待國會審議：https://www.cna.com.tw/news/aopl/202611110298.aspx
+- 2026-11-11 Meta is losing its longtime head of infrastructure：https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/
+- 2026-11-11 安世半導體執行長：仍可能與中國業務重新合併：https://www.cna.com.tw/news/afe/202611110020.aspx
+- 2026-11-11 龍科三期將引進半導體先進製程桃市府5面向做整備：https://www.cna.com.tw/news/aloc/202611110192.aspx
+- 2026-11-11 CoreWeave turns to customer prepayments, shorter contracts to fund AI growth：https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/
+- 2026-11-11 日產汽車上半財年虧損397億日圓　在中國10月銷量大減67%：https://www.cna.com.tw/news/aopl/202611110322.aspx
+- 2026-11-11 With $720M round, Britain’s Fractile gets a leg up in the race for AI chips：https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/
+- 2026-11-11 黃仁勳爭議牽動東南亞晶片供應鏈監管　泰專家：資料中心受考驗：https://www.cna.com.tw/news/afe/202611110321.aspx
+- 2026-11-11 Congress to call Jensen Huang in to answer for alleged Chinese spy affair：https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/
+- 2026-11-11 美利達前3季每股賺2.74元　自行車市場去庫存步尾聲：https://www.cna.com.tw/news/afe/202611110316.aspx
+- 2026-11-11 科學園區審議會通過6件投資案　總額逾103億元：https://www.cna.com.tw/news/afe/202611110315.aspx
+- 2026-11-11 OpenAI’s quarterly revenue reportedly crosses $10B for the first time：https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/
+- 2026-11-11 台積電高層：AI需求呈拋物線式成長熊本二階將導入3奈米：https://www.cna.com.tw/news/afe/202611110118.aspx
+- 2026-11-11 亞泥前3季每股賺2.86元　董事會通過轉投資換股案：https://www.cna.com.tw/news/afe/202611110313.aspx
+- 2026-11-11 Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth：https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/
+- 2026-11-11 漢測認列員工認股一次性費用 第3季每股虧10.23元：https://www.cna.com.tw/news/afe/202611110295.aspx
+- 2026-11-11 聯友金屬看好氧化鎢需求　新產線明年第4季貢獻營收：https://www.cna.com.tw/news/afe/202611110312.aspx
+- 2026-11-11 Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads：https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/
+- 2026-11-11 國家關鍵技術清單增修　涵括高階載板、低軌衛星通訊：https://www.cna.com.tw/news/afe/202611110311.aspx
+- 2026-11-11 AI伺服器等需求帶動　上櫃公司10月營收年增47%：https://www.cna.com.tw/news/afe/202611110310.aspx
+- 2026-11-11 AI 算力「鉛球級」電網挑戰台電推動供需有效配置：https://howlife.cna.com.tw/local/20261109s004.aspx
+- 2026-11-11 黃仁勳外遇風波　外媒：台灣晶片業盛況仍會持續：https://www.cna.com.tw/news/aopl/202611110308.aspx
+- 2026-11-11 Google’s Tabletop AI experiment lets you build custom collaboration apps：https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability
 
 ## 相關網站
 - 標案王：https://www.bidking.tw/
