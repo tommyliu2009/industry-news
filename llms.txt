@@ -9,31 +9,31 @@
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-11-12 研調：Anthropic掛牌日散戶買超可能破SpaceX紀錄：https://www.cna.com.tw/news/aopl/202611120007.aspx
-- 2026-11-12 Baird調降輝達股票評等至「中立」　目標價大砍60%：https://www.cna.com.tw/news/aopl/202611120006.aspx
-- 2026-11-11 泰美關稅談判原則達共識細節待國會審議：https://www.cna.com.tw/news/aopl/202611110298.aspx
-- 2026-11-11 Meta is losing its longtime head of infrastructure：https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/
-- 2026-11-11 安世半導體執行長：仍可能與中國業務重新合併：https://www.cna.com.tw/news/afe/202611110020.aspx
-- 2026-11-11 龍科三期將引進半導體先進製程桃市府5面向做整備：https://www.cna.com.tw/news/aloc/202611110192.aspx
-- 2026-11-11 CoreWeave turns to customer prepayments, shorter contracts to fund AI growth：https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/
-- 2026-11-11 日產汽車上半財年虧損397億日圓　在中國10月銷量大減67%：https://www.cna.com.tw/news/aopl/202611110322.aspx
-- 2026-11-11 With $720M round, Britain’s Fractile gets a leg up in the race for AI chips：https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/
-- 2026-11-11 黃仁勳爭議牽動東南亞晶片供應鏈監管　泰專家：資料中心受考驗：https://www.cna.com.tw/news/afe/202611110321.aspx
-- 2026-11-11 Congress to call Jensen Huang in to answer for alleged Chinese spy affair：https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/
-- 2026-11-11 美利達前3季每股賺2.74元　自行車市場去庫存步尾聲：https://www.cna.com.tw/news/afe/202611110316.aspx
-- 2026-11-11 科學園區審議會通過6件投資案　總額逾103億元：https://www.cna.com.tw/news/afe/202611110315.aspx
-- 2026-11-11 OpenAI’s quarterly revenue reportedly crosses $10B for the first time：https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/
-- 2026-11-11 台積電高層：AI需求呈拋物線式成長熊本二階將導入3奈米：https://www.cna.com.tw/news/afe/202611110118.aspx
-- 2026-11-11 亞泥前3季每股賺2.86元　董事會通過轉投資換股案：https://www.cna.com.tw/news/afe/202611110313.aspx
-- 2026-11-11 Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth：https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/
-- 2026-11-11 漢測認列員工認股一次性費用 第3季每股虧10.23元：https://www.cna.com.tw/news/afe/202611110295.aspx
-- 2026-11-11 聯友金屬看好氧化鎢需求　新產線明年第4季貢獻營收：https://www.cna.com.tw/news/afe/202611110312.aspx
-- 2026-11-11 Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads：https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/
-- 2026-11-11 國家關鍵技術清單增修　涵括高階載板、低軌衛星通訊：https://www.cna.com.tw/news/afe/202611110311.aspx
-- 2026-11-11 AI伺服器等需求帶動　上櫃公司10月營收年增47%：https://www.cna.com.tw/news/afe/202611110310.aspx
-- 2026-11-11 AI 算力「鉛球級」電網挑戰台電推動供需有效配置：https://howlife.cna.com.tw/local/20261109s004.aspx
-- 2026-11-11 黃仁勳外遇風波　外媒：台灣晶片業盛況仍會持續：https://www.cna.com.tw/news/aopl/202611110308.aspx
-- 2026-11-11 Google’s Tabletop AI experiment lets you build custom collaboration apps：https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability
+- 2026-11-13 黃仁勳辭輝達執行長　川普喊話：庫克應接任：https://www.cna.com.tw/news/aopl/202611130003.aspx
+- 2026-11-13 輝達財務長克瑞斯任臨時執行長　矢言推進AI領導者工作：https://www.cna.com.tw/news/aopl/202611130002.aspx
+- 2026-11-13 黃仁勳辭輝達執行長　科技界憂創新領導力流失：https://www.cna.com.tw/news/aopl/202611130011.aspx
+- 2026-11-12 誠美材：收斂偏光片業務轉型半導體先進封裝材料：https://www.cna.com.tw/news/afe/202611120316.aspx
+- 2026-11-12 輝達對中出口引發國安疑慮美民主黨參議員促保留文件：https://www.cna.com.tw/news/aopl/202611120156.aspx
+- 2026-11-12 Google’s latest Search upgrade promises better answers to your most complicated questions：https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/
+- 2026-11-12 Nectar launches an AI agent to automate creator discovery and outreach for brands：https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/
+- 2026-11-12 黃仁勳辭輝達執行長　法人：牽動2028年後AI版圖：https://www.cna.com.tw/news/afe/202611120384.aspx
+- 2026-11-12 Jensen Huang’s exit puts Nvidia’s support for open source in question：https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/
+- 2026-11-12 黃仁勳辭執行長並退出董事會　AI巨擘輝達前景添變數：https://www.cna.com.tw/news/aopl/202611120383.aspx
+- 2026-11-12 AI資安需求續旺　中華資安：明年營運審慎樂觀：https://www.cna.com.tw/news/afe/202611120382.aspx
+- 2026-11-12 United Airlines blocks AI agents from booking flights, citing cybersecurity risks：https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/
+- 2026-11-12 SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions：https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/
+- 2026-11-12 宸鴻：電子書助攻第3季營收　前3季每股賺4.07元：https://www.cna.com.tw/news/afe/202611120375.aspx
+- 2026-11-12 Phota Labs uses AI to turn everyday photos into professional-looking shots：https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/
+- 2026-11-12 Jensen Huang agrees to testify before Congress：https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/
+- 2026-11-12 仁寶伺服器研發銷售分割至雲銳科技優化資源配置：https://www.cna.com.tw/news/afe/202611120348.aspx
+- 2026-11-12 港媒：黃樂香港公司從印尼進口輝達晶片：https://www.cna.com.tw/news/acn/202611120359.aspx
+- 2026-11-12 優必達捐贈中央大學GPU伺服器 支援華語教學與台語AI研究：https://howlife.cna.com.tw/financial/20261112s006.aspx
+- 2026-11-12 元太攜手台虹布局高速運輸材料　預計明年小量貢獻營收：https://www.cna.com.tw/news/afe/202611120354.aspx
+- 2026-11-12 經濟部助攻產業升級AI需求帶動出口：https://howlife.cna.com.tw/financial/20261112s002.aspx
+- 2026-11-12 看好AI產業動能　4銀行統籌主辦益登科技33億聯貸案：https://www.cna.com.tw/news/afe/202611120349.aspx
+- 2026-11-12 Norwest pushes deeper into AI with new $4B fund：https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/
+- 2026-11-12 南亞投資115億元興建玻纖布5廠擴大電子材料布局：https://www.cna.com.tw/news/afe/202611120043.aspx
+- 2026-11-12 學界科技專案－最新公告－115年度科研產業化價值創造計畫核定清單：https://service.moea.gov.tw/EE514/tw/tdpa/5-8285.html
 
 ## 相關網站
 - 標案王：https://www.bidking.tw/
