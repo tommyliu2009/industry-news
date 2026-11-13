@@ -9,31 +9,31 @@
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-11-13 黃仁勳辭輝達執行長　川普喊話：庫克應接任：https://www.cna.com.tw/news/aopl/202611130003.aspx
-- 2026-11-13 輝達財務長克瑞斯任臨時執行長　矢言推進AI領導者工作：https://www.cna.com.tw/news/aopl/202611130002.aspx
-- 2026-11-13 黃仁勳辭輝達執行長　科技界憂創新領導力流失：https://www.cna.com.tw/news/aopl/202611130011.aspx
-- 2026-11-12 誠美材：收斂偏光片業務轉型半導體先進封裝材料：https://www.cna.com.tw/news/afe/202611120316.aspx
-- 2026-11-12 輝達對中出口引發國安疑慮美民主黨參議員促保留文件：https://www.cna.com.tw/news/aopl/202611120156.aspx
-- 2026-11-12 Google’s latest Search upgrade promises better answers to your most complicated questions：https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/
-- 2026-11-12 Nectar launches an AI agent to automate creator discovery and outreach for brands：https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/
-- 2026-11-12 黃仁勳辭輝達執行長　法人：牽動2028年後AI版圖：https://www.cna.com.tw/news/afe/202611120384.aspx
-- 2026-11-12 Jensen Huang’s exit puts Nvidia’s support for open source in question：https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/
-- 2026-11-12 黃仁勳辭執行長並退出董事會　AI巨擘輝達前景添變數：https://www.cna.com.tw/news/aopl/202611120383.aspx
-- 2026-11-12 AI資安需求續旺　中華資安：明年營運審慎樂觀：https://www.cna.com.tw/news/afe/202611120382.aspx
-- 2026-11-12 United Airlines blocks AI agents from booking flights, citing cybersecurity risks：https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/
-- 2026-11-12 SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions：https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/
-- 2026-11-12 宸鴻：電子書助攻第3季營收　前3季每股賺4.07元：https://www.cna.com.tw/news/afe/202611120375.aspx
-- 2026-11-12 Phota Labs uses AI to turn everyday photos into professional-looking shots：https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/
-- 2026-11-12 Jensen Huang agrees to testify before Congress：https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/
-- 2026-11-12 仁寶伺服器研發銷售分割至雲銳科技優化資源配置：https://www.cna.com.tw/news/afe/202611120348.aspx
-- 2026-11-12 港媒：黃樂香港公司從印尼進口輝達晶片：https://www.cna.com.tw/news/acn/202611120359.aspx
-- 2026-11-12 優必達捐贈中央大學GPU伺服器 支援華語教學與台語AI研究：https://howlife.cna.com.tw/financial/20261112s006.aspx
-- 2026-11-12 元太攜手台虹布局高速運輸材料　預計明年小量貢獻營收：https://www.cna.com.tw/news/afe/202611120354.aspx
-- 2026-11-12 經濟部助攻產業升級AI需求帶動出口：https://howlife.cna.com.tw/financial/20261112s002.aspx
-- 2026-11-12 看好AI產業動能　4銀行統籌主辦益登科技33億聯貸案：https://www.cna.com.tw/news/afe/202611120349.aspx
-- 2026-11-12 Norwest pushes deeper into AI with new $4B fund：https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/
-- 2026-11-12 南亞投資115億元興建玻纖布5廠擴大電子材料布局：https://www.cna.com.tw/news/afe/202611120043.aspx
-- 2026-11-12 學界科技專案－最新公告－115年度科研產業化價值創造計畫核定清單：https://service.moea.gov.tw/EE514/tw/tdpa/5-8285.html
+- 2026-11-13 AI agent startup LangChain hits $3B valuation：https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/
+- 2026-11-13 美擬擴大AI晶片出口管制泰國總理：投資不受影響：https://www.cna.com.tw/news/aopl/202611130222.aspx
+- 2026-11-13 Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!：https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/
+- 2026-11-13 黃仁勳去職日本政府關注AI產業及半導體供應鏈衝擊：https://www.cna.com.tw/news/aopl/202611130105.aspx
+- 2026-11-13 美國國會擬收緊AI晶片對中出口中國取得輝達晶片難度增：https://www.cna.com.tw/news/aopl/202611130115.aspx
+- 2026-11-13 精材與台積電簽逾7年產能外包協議　2029年量產後段先進封裝：https://www.cna.com.tw/news/afe/202611130329.aspx
+- 2026-11-13 ChatGPT’s new Wallet lets AI agents shop and check out for you：https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/
+- 2026-11-13 台灣半導體產值今年挑戰9.76兆元 估成長49.7%：https://www.cna.com.tw/news/afe/202611130275.aspx
+- 2026-11-13 黃仁勳辭職震撼AI晶片版圖投顧：台廠供應鏈仍無可取代：https://www.cna.com.tw/news/afe/202611130043.aspx
+- 2026-11-13 彭博：黃樂創辦的中國公司曾取得禁止輸中輝達晶片：https://www.cna.com.tw/news/aopl/202611130323.aspx
+- 2026-11-13 The unfolding Jensen Huang scandal: a timeline：https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
+- 2026-11-13 高捷世運站A5公辦都更案動土打造半導體後勤基地：https://www.cna.com.tw/news/aloc/202611130110.aspx
+- 2026-11-13 Anthropic將在美IPO　富邦人壽擬申購上限7億美元：https://www.cna.com.tw/news/afe/202611130316.aspx
+- 2026-11-13 ElevenLabs’ new app combines meeting note-taking and dictation for teams：https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/
+- 2026-11-13 GCTF首度登上以色列國際資安週聚焦AI供應鏈安全：https://www.cna.com.tw/news/aipl/202611130212.aspx
+- 2026-11-13 轉投資南山人壽業外挹注　寶成前3季淨利年增8成：https://www.cna.com.tw/news/afe/202611130311.aspx
+- 2026-11-13 Israel’s VCs see opportunity for challengers in Nvidia’s turmoil：https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/
+- 2026-11-13 黃仁勳卸任輝達執行長　矽谷不安看待AI產業可能衝擊：https://www.cna.com.tw/news/aopl/202611130307.aspx
+- 2026-11-13 Jensen Huang didn’t show confidence in his successor, report says：https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/
+- 2026-11-13 黃仁勳去職供應鏈：輝達技術路徑不變、ASIC發展加速：https://www.cna.com.tw/news/afe/202611130096.aspx
+- 2026-11-13 印度推再生能源　國際能源總署：15年已省逾3.2兆元：https://www.cna.com.tw/news/aopl/202611130305.aspx
+- 2026-11-13 黃仁勳捲入中國間諜疑雲知情人士：北京已開始切割官方角色：https://www.cna.com.tw/news/aipl/202611130063.aspx
+- 2026-11-13 埃及電子簽名接軌歐盟 跨境驗證貿易物流先受益：https://www.cna.com.tw/news/aopl/202611130298.aspx
+- 2026-11-13 黃仁勳辭職供應鏈：明年訂單無虞、AI門檻高成護城河：https://www.cna.com.tw/news/afe/202611130109.aspx
+- 2026-11-13 AI太聰明搶老師飯碗？專家：讓教師回歸教育初心：https://www.cna.com.tw/news/ait/202611130243.aspx
 
 ## 相關網站
 - 標案王：https://www.bidking.tw/
