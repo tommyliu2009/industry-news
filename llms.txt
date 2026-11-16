@@ -9,31 +9,31 @@
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-11-16 美財長貝森特：輝達須「從公司外部」尋找新執行長：https://www.cna.com.tw/news/aopl/202611160002.aspx
-- 2026-11-15 台塑化：16日起汽柴油價格維持不變：https://www.cna.com.tw/news/ahel/202611150083.aspx
-- 2026-11-15 黃仁勳辭輝達執行長　專家：AI發展趨健康、台灣產業鏈不受影響：https://www.cna.com.tw/news/afe/202611150052.aspx
-- 2026-11-15 台灣首顆GPGPU獲飛行履歷　捷揚太空代工轉攻研發拓商機：https://www.cna.com.tw/news/afe/202611150026.aspx
-- 2026-11-15 黃仁勳風波後美恐緊縮晶片出口 中國官媒憂衝擊尖端算力：https://www.cna.com.tw/news/acn/202611150102.aspx
-- 2026-11-15 Jensen Huang might be plotting a return and more of the latest Nvidia drama：https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed
-- 2026-11-15 美台高科技論壇矽谷登場　輝達副總裁強調台灣為關鍵供應鏈：https://www.cna.com.tw/news/ait/202611150091.aspx
-- 2026-11-15 Congress wants to tighten export rules on AI chips after Nvidia spy scandal：https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china
-- 2026-11-15 An overview of Jensen Huang’s messy days：https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation
-- 2026-11-15 首屆AI音樂獎揭曉虛擬歌手Xania Monet奪多項大獎：https://www.cna.com.tw/news/amov/202611150184.aspx
-- 2026-11-15 華郵：黃仁勳風波牽連美選民對AI及中國疑慮重擊川普弱點：https://www.cna.com.tw/news/aopl/202611150021.aspx
-- 2026-11-15 黃仁勳去職後首場輝達財報說明會法人看AI展望牽動台股：https://www.cna.com.tw/news/afe/202611150033.aspx
-- 2026-11-15 輝達兩大股東籲審慎評估領導人選　黃仁勳回任列入考量：https://www.cna.com.tw/news/aopl/202611150004.aspx
-- 2026-11-14 Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang：https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/
-- 2026-11-14 Asian governments react to Nvidia CEO Jensen Huang’s exit：https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/
-- 2026-11-14 早安世界》輝達風波涉國安美國會議員要求黃仁勳12月3日赴參議院作證：https://www.cna.com.tw/news/ahel/202611145001.aspx
-- 2026-11-14 王毅會見中美政黨對話代表 籲理性看待對方加強AI合作：https://www.cna.com.tw/news/acn/202611140073.aspx
-- 2026-11-14 NSTC-新聞資料-第25屆臺拉立年會於立陶宛舉行 持續深化科技合作：https://www.nstc.gov.tw/folksonomy/detail/b943082d-e1c0-4940-b988-fea37e59a3e1?l=CH&utm_source=rss
-- 2026-11-14 黃仁勳辭執行長　馬斯克：輝達將失去部分關鍵交易：https://www.cna.com.tw/news/aopl/202611140227.aspx
-- 2026-11-14 美中首次貿易委員會會議雙方談關稅、農產品貿易等議題：https://www.cna.com.tw/news/acn/202611140121.aspx
-- 2026-11-14 輝達財務長暫代執行長　美媒：黃仁勳曾斥只會彙報數字：https://www.cna.com.tw/news/aopl/202611140189.aspx
-- 2026-11-14 企業投資看重安全穩定　泰國副總理：須提升人才技能：https://www.cna.com.tw/news/aopl/202611140180.aspx
-- 2026-11-14 Anthropic上市前夕向投資人喊話　強調安全與用人文化：https://www.cna.com.tw/news/aopl/202611140074.aspx
-- 2026-11-14 Jensen Huang and the decline of the visionary showman founder CEO：https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo
-- 2026-11-14 銀髮食品商機2030年破600億　食品廠改寫質地超商融入貨架：https://www.cna.com.tw/news/afe/202611140063.aspx
+- 2026-11-16 台灣傲視英國茶品競賽　奪「最佳紅茶」國際大獎：https://www.cna.com.tw/news/ahel/202611160301.aspx
+- 2026-11-16 California state AG sues OpenAI over rogue agent incidents：https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/
+- 2026-11-16 SK海力士5年擬砸345億扶植本土半導體供應商：https://www.cna.com.tw/news/aopl/202611160031.aspx
+- 2026-11-16 「晶片戰爭」作者：輝達挑戰華府對中鷹派　調查不會止於黃仁勳：https://www.cna.com.tw/news/aopl/202611160291.aspx
+- 2026-11-16 烏山頭水庫光電板引議　能源署：最新水質檢測合格：https://www.cna.com.tw/news/afe/202611160282.aspx
+- 2026-11-16 Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’：https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/
+- 2026-11-16 數產署赴歐推動半導體供應鏈資安合作　助台灣業者拓商機：https://www.cna.com.tw/news/afe/202611160276.aspx
+- 2026-11-16 FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’：https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/
+- 2026-11-16 要求翡翠水庫設置光電？水利署澄清：無強制推動情事：https://www.cna.com.tw/news/afe/202611160271.aspx
+- 2026-11-16 Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’：https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/
+- 2026-11-16 IMD數位與AI競爭力台灣第13名　4指標全球第1：https://www.cna.com.tw/news/afe/202611160270.aspx
+- 2026-11-16 OpenAI will embed safety researchers to investigate AI subversion：https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/
+- 2026-11-16 「法國製造」經濟壓力下尋青睞　挺國貨與價格拉鋸：https://www.cna.com.tw/news/aopl/202611160267.aspx
+- 2026-11-16 OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM：https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/
+- 2026-11-16 凱智科技20日登錄興櫃　搶攻光電EPC與歐洲電動自行車聯網：https://www.cna.com.tw/news/afe/202611160265.aspx
+- 2026-11-16 Audible turns to AI to help users discover audiobooks：https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/
+- 2026-11-16 金屬扣件產業聯盟成立　經部助16家業者搶攻美國市場：https://www.cna.com.tw/news/afe/202611160259.aspx
+- 2026-11-16 US tightens AI chip export controls to deter Chinese companies from accessing compute remotely：https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/
+- 2026-11-16 Google Maps can now build trip itineraries with real-time details about each stop：https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/
+- 2026-11-16 華為加碼具身人工智慧　切入清掃機器人領域：https://www.cna.com.tw/news/acn/202611160296.aspx
+- 2026-11-16 Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM：https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/
+- 2026-11-16 日本超級電腦遭不當存取　日媒：企業機密恐外洩：https://www.cna.com.tw/news/ait/202611160223.aspx
+- 2026-11-16 Apple launches new app to study how people use AI for health：https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/
+- 2026-11-16 碳價疲軟加深資金缺口　歐洲碳捕捉恐累及公共財政：https://www.cna.com.tw/news/ait/202611160133.aspx
+- 2026-11-16 漢測深化合作ficonTEC 擴大布局矽光子測試：https://www.cna.com.tw/news/afe/202611160150.aspx
 
 ## 相關網站
 - 標案王：https://www.bidking.tw/
