@@ -9,31 +9,31 @@
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-21 美媒：軟銀曾探詢1兆美元收購SK海力士　但不再考慮：https://www.cna.com.tw/news/aopl/202611210191.aspx
+- 2026-11-21 A tale of two Nvidias：https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/
+- 2026-11-21 愛豐通運布局捷克打造歐洲半導體供應鏈樞紐：https://www.cna.com.tw/news/newsworld/20261121n001.aspx
+- 2026-11-21 安塔利亞人工智慧承諾彭啓明盼結合供應鏈優勢推減碳：https://www.cna.com.tw/news/ahel/202611210135.aspx
+- 2026-11-21 Is selling an AI version of your face to this microdrama startup the future of Hollywood?：https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/
+- 2026-11-21 公股銀行挺中小微企業　前10月放款餘額達6.27兆元：https://www.cna.com.tw/news/afe/202611210179.aspx
+- 2026-11-21 經濟部：電子業對前景仍具信心　明年出口有望破兆美元：https://www.cna.com.tw/news/afe/202611210139.aspx
+- 2026-11-21 智慧製造研發計畫促投資逾154億　經部助攻高階工具機自主化：https://www.cna.com.tw/news/afe/202611210042.aspx
+- 2026-11-21 The UN fails to agree on rules regulating ‘killer robots’：https://www.theverge.com/tech/1039554/un-regulations-killer-robots
+- 2026-11-21 Anthropic上市難挽跌勢　AI股單週市值蒸發逾4兆美元：https://www.cna.com.tw/news/afe/202611210031.aspx
+- 2026-11-21 燃油價格飆升、空域受限　印度航空2026財年虧損逾781億元：https://www.cna.com.tw/news/aopl/202611210025.aspx
+- 2026-11-21 輝達重挫14%連7週收黑　創金融危機後最長紀錄：https://www.cna.com.tw/news/afe/202611210020.aspx
+- 2026-11-21 菲律賓參與矽盛世倡議　新克拉克市定位先進製造據點：https://www.cna.com.tw/news/aopl/202611210199.aspx
+- 2026-11-21 芬蘭創業盛會Slush「押注歐洲」 聚焦AI與硬體創新：https://www.cna.com.tw/news/aopl/202611210030.aspx
+- 2026-11-21 學生依賴AI有3大風險學者籲教師要具辨識能力：https://www.cna.com.tw/news/ahel/202611210115.aspx
+- 2026-11-21 那斯達克重挫5.3%逼近熊市美股AI震盪重點一次看：https://www.cna.com.tw/news/afe/202611210053.aspx
+- 2026-11-21 AI算力競爭關鍵在電力台灣具低碳發展優勢：https://www.cna.com.tw/news/newsworld/20261121n002.aspx
+- 2026-11-21 AI衝擊教育 基金會籲禁國小生獨立用通用型AI：https://www.cna.com.tw/news/ahel/202611210050.aspx
+- 2026-11-21 屋漏偏逢連夜雨紐時：中國發展AI雄心正遭遇資金困境：https://www.cna.com.tw/news/acn/202611210137.aspx
+- 2026-11-21 美議員稱多次警告中國走私AI晶片批盧特尼克無視警告：https://www.cna.com.tw/news/aopl/202611210182.aspx
+- 2026-11-21 韓國總統視察蔚山SK資料中心強調AI基礎建設重要性：https://www.cna.com.tw/news/aopl/202611210083.aspx
+- 2026-11-21 中國與澳洲總理年度會晤同意建立人工智慧對話機制：https://www.cna.com.tw/news/acn/202611210060.aspx
 - 2026-11-21 路透：輝達再陷法律風暴　SEC調查會計作業：https://www.cna.com.tw/news/aopl/202611210010.aspx
-- 2026-11-20 Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.：https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/
-- 2026-11-20 AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too：https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/
-- 2026-11-20 南寶成立半導體產業發展部拚明年業績續創新高：https://www.cna.com.tw/news/afe/202611200264.aspx
-- 2026-11-20 Chips can survive the space environment — can their financing?：https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/
-- 2026-11-20 AI晶片出口中國引國安爭議美眾院揭近88萬顆核准數據：https://www.cna.com.tw/news/aopl/202611200014.aspx
-- 2026-11-20 美媒：SpaceX旗下Cursor擬逐步停用中國AI模型：https://www.cna.com.tw/news/aopl/202611200353.aspx
-- 2026-11-20 超微股價重挫8% 中國供應鏈疑慮衝擊：https://www.cna.com.tw/news/aopl/202611200008.aspx
-- 2026-11-20 Anthropic上市次日 股價早盤重挫逾9%：https://www.cna.com.tw/news/afe/202611200350.aspx
-- 2026-11-20 Apple may be developing its own AI agent that runs your Mac：https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/
-- 2026-11-20 獲追加預算撥補　台電：感謝國會支持、共同穩住物價：https://www.cna.com.tw/news/afe/202611200312.aspx
-- 2026-11-20 Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO：https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/
-- 2026-11-20 Anthropic上市5000多員工成富豪　添舊金山房市壓力：https://www.cna.com.tw/news/aopl/202611200302.aspx
-- 2026-11-20 德國漢莎航空擬裁員千人　燃料成本高漲營運承壓：https://www.cna.com.tw/news/aopl/202611200296.aspx
-- 2026-11-20 Slush創業盛會　芬蘭總統以台灣晶片製造剖析AI戰略依賴：https://www.cna.com.tw/news/aopl/202611200348.aspx
-- 2026-11-20 AI熱潮衝擊企業氣候承諾　Meta重新評估2030淨零目標：https://www.cna.com.tw/news/ait/202611200062.aspx
-- 2026-11-20 Anthropic上市首日先盛後衰　AI熱潮能否延續備受關注：https://www.cna.com.tw/news/ait/202611200054.aspx
-- 2026-11-20 阿里巴巴遭股東告詐欺　涉隱瞞與輝達間諜案關係：https://www.cna.com.tw/news/ait/202611200037.aspx
-- 2026-11-20 投資台灣三大方案累計破3兆福懋科砸逾111億擴封測產能：https://www.cna.com.tw/news/afe/202611200180.aspx
-- 2026-11-20 Trump threatens ‘tremendous tax’ for moving AI data centers outside the US：https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax
-- 2026-11-20 Signal is blocking Gemini and Siri AI from reading your screen：https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app
-- 2026-11-19 傳美出口管制新規衝擊台積電、三星暫停部分對中晶片出貨：https://www.cna.com.tw/news/aopl/202611190353.aspx
-- 2026-11-19 施振榮APEC倡AI邁向智慧籲強化半導體供應鏈韌性：https://www.cna.com.tw/news/aipl/202611190317.aspx
-- 2026-11-19 韓國總統APEC提3大願景強調AI創新與供應鏈韌性：https://www.cna.com.tw/news/aopl/202611190167.aspx
-- 2026-11-19 AI熱潮帶旺半導體 韓國出口額首破1兆美元全年可望全球第4：https://www.cna.com.tw/news/afe/202611190232.aspx
+- 2026-11-20 台灣6G實驗網全面啟用串聯18家產學研打造國際測試驗證平台：https://www.cna.com.tw/news/afe/202611200279.aspx
+- 2026-11-20 經部估11月外銷訂單累計破兆美元全年站穩1.1兆美元：https://www.cna.com.tw/news/afe/202611200273.aspx
 
 ## 相關網站
 - 標案王：https://www.bidking.tw/
