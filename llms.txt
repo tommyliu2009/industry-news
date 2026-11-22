@@ -9,31 +9,31 @@
 - 維護：仁禾管理顧問
 
 ## 最新內容
+- 2026-11-22 上海產特斯拉熱銷 韓自中國進口汽車逆差創新高：https://www.cna.com.tw/news/acn/202611220179.aspx
+- 2026-11-22 OpenAI’s chief scientist has thoughts on how to limit AI development：https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/
+- 2026-11-22 金融時報：黃樂背後晶片供應網牽涉太子集團：https://www.cna.com.tw/news/aopl/202611220161.aspx
+- 2026-11-22 Why data centers are at the center of the Big Tech backlash：https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/
+- 2026-11-22 台塑化：23日起汽柴油價格維持不變：https://www.cna.com.tw/news/ahel/202611220086.aspx
+- 2026-11-22 駭客猛攻金融業　國銀今年探測攻擊逾2000萬次、AI上陣協防：https://www.cna.com.tw/news/afe/202611220031.aspx
+- 2026-11-22 AI攻擊新時代推升資安需求　業者案量多到婉拒客戶、教戰防駭自保：https://www.cna.com.tw/news/afe/202611220029.aspx
+- 2026-11-22 Binding of Isaac developer removes AI music from Repentance Plus：https://www.theverge.com/games/1039770/binding-of-isaac-ai-music
+- 2026-11-22 黃仁勳去職美嚴控AI產業　重大事件和供應鏈看法一次看：https://www.cna.com.tw/news/afe/202611220026.aspx
+- 2026-11-22 The vibe-coding revolution is coming to all the gadgets：https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera
+- 2026-11-22 後黃仁勳時代輝達結盟供應鏈　AI訂單無虞主導地位穩固：https://www.cna.com.tw/news/afe/202611220025.aspx
+- 2026-11-22 亞馬遜抗衡輝達　傳砸2470億收購AI新銳Decart：https://www.cna.com.tw/news/afe/202611220015.aspx
+- 2026-11-22 AI教育不能一體適用黃昆輝提分齡指引培養人機協作：https://www.cna.com.tw/news/ahel/202611220159.aspx
+- 2026-11-22 AI挑戰160年數學難題研究員稱找到黎曼猜想證明：https://www.cna.com.tw/news/aopl/202611220022.aspx
+- 2026-11-22 紐時：輝達醜聞爆發數年前 中國國安部已盯上AI晶片：https://www.cna.com.tw/news/aopl/202611220182.aspx
+- 2026-11-22 加拿大深化對中貿易關係陳明祺示警北京經濟脅迫風險：https://www.cna.com.tw/news/aipl/202611220003.aspx
+- 2026-11-21 Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance：https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/
+- 2026-11-21 呼應COP31零廢棄環境部：強化與各國循環經濟合作：https://www.cna.com.tw/news/ahel/202611210076.aspx
+- 2026-11-21 歐盟提案擬課稅科技巨擘鎖定境內年營收至少5000萬歐元業者：https://www.cna.com.tw/news/aopl/202611210220.aspx
+- 2026-11-21 不許美企至他國建資料中心川普揚言祭重稅防堵：https://www.cna.com.tw/news/aopl/202611210024.aspx
+- 2026-11-21 中油：23日起汽柴油價格維持不調整：https://www.cna.com.tw/news/ahel/202611210162.aspx
 - 2026-11-21 美媒：軟銀曾探詢1兆美元收購SK海力士　但不再考慮：https://www.cna.com.tw/news/aopl/202611210191.aspx
 - 2026-11-21 A tale of two Nvidias：https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/
 - 2026-11-21 愛豐通運布局捷克打造歐洲半導體供應鏈樞紐：https://www.cna.com.tw/news/newsworld/20261121n001.aspx
 - 2026-11-21 安塔利亞人工智慧承諾彭啓明盼結合供應鏈優勢推減碳：https://www.cna.com.tw/news/ahel/202611210135.aspx
-- 2026-11-21 Is selling an AI version of your face to this microdrama startup the future of Hollywood?：https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/
-- 2026-11-21 公股銀行挺中小微企業　前10月放款餘額達6.27兆元：https://www.cna.com.tw/news/afe/202611210179.aspx
-- 2026-11-21 經濟部：電子業對前景仍具信心　明年出口有望破兆美元：https://www.cna.com.tw/news/afe/202611210139.aspx
-- 2026-11-21 智慧製造研發計畫促投資逾154億　經部助攻高階工具機自主化：https://www.cna.com.tw/news/afe/202611210042.aspx
-- 2026-11-21 The UN fails to agree on rules regulating ‘killer robots’：https://www.theverge.com/tech/1039554/un-regulations-killer-robots
-- 2026-11-21 Anthropic上市難挽跌勢　AI股單週市值蒸發逾4兆美元：https://www.cna.com.tw/news/afe/202611210031.aspx
-- 2026-11-21 燃油價格飆升、空域受限　印度航空2026財年虧損逾781億元：https://www.cna.com.tw/news/aopl/202611210025.aspx
-- 2026-11-21 輝達重挫14%連7週收黑　創金融危機後最長紀錄：https://www.cna.com.tw/news/afe/202611210020.aspx
-- 2026-11-21 菲律賓參與矽盛世倡議　新克拉克市定位先進製造據點：https://www.cna.com.tw/news/aopl/202611210199.aspx
-- 2026-11-21 芬蘭創業盛會Slush「押注歐洲」 聚焦AI與硬體創新：https://www.cna.com.tw/news/aopl/202611210030.aspx
-- 2026-11-21 學生依賴AI有3大風險學者籲教師要具辨識能力：https://www.cna.com.tw/news/ahel/202611210115.aspx
-- 2026-11-21 那斯達克重挫5.3%逼近熊市美股AI震盪重點一次看：https://www.cna.com.tw/news/afe/202611210053.aspx
-- 2026-11-21 AI算力競爭關鍵在電力台灣具低碳發展優勢：https://www.cna.com.tw/news/newsworld/20261121n002.aspx
-- 2026-11-21 AI衝擊教育 基金會籲禁國小生獨立用通用型AI：https://www.cna.com.tw/news/ahel/202611210050.aspx
-- 2026-11-21 屋漏偏逢連夜雨紐時：中國發展AI雄心正遭遇資金困境：https://www.cna.com.tw/news/acn/202611210137.aspx
-- 2026-11-21 美議員稱多次警告中國走私AI晶片批盧特尼克無視警告：https://www.cna.com.tw/news/aopl/202611210182.aspx
-- 2026-11-21 韓國總統視察蔚山SK資料中心強調AI基礎建設重要性：https://www.cna.com.tw/news/aopl/202611210083.aspx
-- 2026-11-21 中國與澳洲總理年度會晤同意建立人工智慧對話機制：https://www.cna.com.tw/news/acn/202611210060.aspx
-- 2026-11-21 路透：輝達再陷法律風暴　SEC調查會計作業：https://www.cna.com.tw/news/aopl/202611210010.aspx
-- 2026-11-20 台灣6G實驗網全面啟用串聯18家產學研打造國際測試驗證平台：https://www.cna.com.tw/news/afe/202611200279.aspx
-- 2026-11-20 經部估11月外銷訂單累計破兆美元全年站穩1.1兆美元：https://www.cna.com.tw/news/afe/202611200273.aspx
 
 ## 相關網站
 - 標案王：https://www.bidking.tw/
