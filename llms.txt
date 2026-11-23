@@ -9,31 +9,31 @@
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-11-22 上海產特斯拉熱銷 韓自中國進口汽車逆差創新高：https://www.cna.com.tw/news/acn/202611220179.aspx
-- 2026-11-22 OpenAI’s chief scientist has thoughts on how to limit AI development：https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/
-- 2026-11-22 金融時報：黃樂背後晶片供應網牽涉太子集團：https://www.cna.com.tw/news/aopl/202611220161.aspx
-- 2026-11-22 Why data centers are at the center of the Big Tech backlash：https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/
-- 2026-11-22 台塑化：23日起汽柴油價格維持不變：https://www.cna.com.tw/news/ahel/202611220086.aspx
-- 2026-11-22 駭客猛攻金融業　國銀今年探測攻擊逾2000萬次、AI上陣協防：https://www.cna.com.tw/news/afe/202611220031.aspx
-- 2026-11-22 AI攻擊新時代推升資安需求　業者案量多到婉拒客戶、教戰防駭自保：https://www.cna.com.tw/news/afe/202611220029.aspx
-- 2026-11-22 Binding of Isaac developer removes AI music from Repentance Plus：https://www.theverge.com/games/1039770/binding-of-isaac-ai-music
-- 2026-11-22 黃仁勳去職美嚴控AI產業　重大事件和供應鏈看法一次看：https://www.cna.com.tw/news/afe/202611220026.aspx
-- 2026-11-22 The vibe-coding revolution is coming to all the gadgets：https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera
-- 2026-11-22 後黃仁勳時代輝達結盟供應鏈　AI訂單無虞主導地位穩固：https://www.cna.com.tw/news/afe/202611220025.aspx
-- 2026-11-22 亞馬遜抗衡輝達　傳砸2470億收購AI新銳Decart：https://www.cna.com.tw/news/afe/202611220015.aspx
-- 2026-11-22 AI教育不能一體適用黃昆輝提分齡指引培養人機協作：https://www.cna.com.tw/news/ahel/202611220159.aspx
-- 2026-11-22 AI挑戰160年數學難題研究員稱找到黎曼猜想證明：https://www.cna.com.tw/news/aopl/202611220022.aspx
-- 2026-11-22 紐時：輝達醜聞爆發數年前 中國國安部已盯上AI晶片：https://www.cna.com.tw/news/aopl/202611220182.aspx
-- 2026-11-22 加拿大深化對中貿易關係陳明祺示警北京經濟脅迫風險：https://www.cna.com.tw/news/aipl/202611220003.aspx
-- 2026-11-21 Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance：https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/
-- 2026-11-21 呼應COP31零廢棄環境部：強化與各國循環經濟合作：https://www.cna.com.tw/news/ahel/202611210076.aspx
-- 2026-11-21 歐盟提案擬課稅科技巨擘鎖定境內年營收至少5000萬歐元業者：https://www.cna.com.tw/news/aopl/202611210220.aspx
-- 2026-11-21 不許美企至他國建資料中心川普揚言祭重稅防堵：https://www.cna.com.tw/news/aopl/202611210024.aspx
-- 2026-11-21 中油：23日起汽柴油價格維持不調整：https://www.cna.com.tw/news/ahel/202611210162.aspx
-- 2026-11-21 美媒：軟銀曾探詢1兆美元收購SK海力士　但不再考慮：https://www.cna.com.tw/news/aopl/202611210191.aspx
-- 2026-11-21 A tale of two Nvidias：https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/
-- 2026-11-21 愛豐通運布局捷克打造歐洲半導體供應鏈樞紐：https://www.cna.com.tw/news/newsworld/20261121n001.aspx
-- 2026-11-21 安塔利亞人工智慧承諾彭啓明盼結合供應鏈優勢推減碳：https://www.cna.com.tw/news/ahel/202611210135.aspx
+- 2026-11-24 黃仁勳返輝達總部員工熱烈歡迎　承諾「第二次會做更好」：https://www.cna.com.tw/news/aopl/202611240010.aspx
+- 2026-11-24 黃仁勳喊迫不及待復工　社群帳號改回輝達創辦人暨執行長：https://www.cna.com.tw/news/aopl/202611240005.aspx
+- 2026-11-23 Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a U.S. blacklist：https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/
+- 2026-11-23 泰國因應跨境污染擬禁止出口開採稀土的化學品：https://www.cna.com.tw/news/aopl/202611230230.aspx
+- 2026-11-23 輝達恢復黃仁勳職務全文聲明 重申調查工作持續進行：https://www.cna.com.tw/news/aopl/202611230300.aspx
+- 2026-11-23 Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses：https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/
+- 2026-11-23 台積電侯永清：AI成長趨勢不變未見客戶調整訂單或出貨：https://www.cna.com.tw/news/afe/202611230249.aspx
+- 2026-11-23 國台辦與中國進出口銀行簽約台企融資增加管道：https://www.cna.com.tw/news/acn/202611230254.aspx
+- 2026-11-23 Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO：https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/
+- 2026-11-23 大馬投貿部：台灣AI供應鏈領先全球台馬具互補優勢：https://www.cna.com.tw/news/afe/202611230215.aspx
+- 2026-11-23 Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips：https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/
+- 2026-11-23 Jensen Huang isn’t out of the woods yet：https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/
+- 2026-11-23 登豐擬12月中旬上櫃搶進GB10微型超級電腦供應鏈：https://www.cna.com.tw/news/afe/202611230130.aspx
+- 2026-11-23 黃仁勳夫婦握逾8.7億股輝達　華爾街日報揭節稅布局：https://www.cna.com.tw/news/aopl/202611230284.aspx
+- 2026-11-23 Trump reportedly called into Nvidia board meeting to advocate for Huang’s return：https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/
+- 2026-11-23 華邦電、成大設共同研發中心聚焦前瞻技術研發和育才：https://www.cna.com.tw/news/afe/202611230157.aspx
+- 2026-11-23 黃仁勳醜聞掀客戶疑慮　恐危及輝達中國數十億美元業務：https://www.cna.com.tw/news/aopl/202611230279.aspx
+- 2026-11-23 臺灣資安防禦經驗登上奧地利《標準報》 林宜敬部長籲民主夥伴攜手因應AI時代資安挑戰、建立可信賴供應鏈：https://moda.gov.tw/press/press-releases/21514
+- 2026-11-23 法國財長坦言經濟成長有下修風險　支持研議長期預算規則：https://www.cna.com.tw/news/aopl/202611230278.aspx
+- 2026-11-23 Sierra doubles valuation to $30B within six months as demand for AI in CX takes off：https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/
+- 2026-11-23 台灣創新技術博覽會：數位賦能區2026-9-17~19：https://moda.gov.tw/ADI/news/exhibition/21510
+- 2026-11-23 英歐同意排放權交易系統接軌　彼此豁免碳關稅在望：https://www.cna.com.tw/news/ait/202611230187.aspx
+- 2026-11-23 How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO：https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/
+- 2026-11-23 「2026 ITSPORT體感科技挑戰賽」登場 國產科技運動產品實證成果亮相：https://moda.gov.tw/ADI/news/latest-news/21520
+- 2026-11-23 OpenAI科學家建議以困惑度為指標　訂定AI發展業界門檻：https://www.cna.com.tw/news/ait/202611230017.aspx
 
 ## 相關網站
 - 標案王：https://www.bidking.tw/
