@@ -9,31 +9,31 @@
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-11-24 黃仁勳返輝達總部員工熱烈歡迎　承諾「第二次會做更好」：https://www.cna.com.tw/news/aopl/202611240010.aspx
-- 2026-11-24 黃仁勳喊迫不及待復工　社群帳號改回輝達創辦人暨執行長：https://www.cna.com.tw/news/aopl/202611240005.aspx
-- 2026-11-23 Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a U.S. blacklist：https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/
-- 2026-11-23 泰國因應跨境污染擬禁止出口開採稀土的化學品：https://www.cna.com.tw/news/aopl/202611230230.aspx
-- 2026-11-23 輝達恢復黃仁勳職務全文聲明 重申調查工作持續進行：https://www.cna.com.tw/news/aopl/202611230300.aspx
-- 2026-11-23 Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses：https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/
-- 2026-11-23 台積電侯永清：AI成長趨勢不變未見客戶調整訂單或出貨：https://www.cna.com.tw/news/afe/202611230249.aspx
-- 2026-11-23 國台辦與中國進出口銀行簽約台企融資增加管道：https://www.cna.com.tw/news/acn/202611230254.aspx
-- 2026-11-23 Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO：https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/
-- 2026-11-23 大馬投貿部：台灣AI供應鏈領先全球台馬具互補優勢：https://www.cna.com.tw/news/afe/202611230215.aspx
-- 2026-11-23 Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips：https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/
-- 2026-11-23 Jensen Huang isn’t out of the woods yet：https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/
-- 2026-11-23 登豐擬12月中旬上櫃搶進GB10微型超級電腦供應鏈：https://www.cna.com.tw/news/afe/202611230130.aspx
-- 2026-11-23 黃仁勳夫婦握逾8.7億股輝達　華爾街日報揭節稅布局：https://www.cna.com.tw/news/aopl/202611230284.aspx
-- 2026-11-23 Trump reportedly called into Nvidia board meeting to advocate for Huang’s return：https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/
-- 2026-11-23 華邦電、成大設共同研發中心聚焦前瞻技術研發和育才：https://www.cna.com.tw/news/afe/202611230157.aspx
-- 2026-11-23 黃仁勳醜聞掀客戶疑慮　恐危及輝達中國數十億美元業務：https://www.cna.com.tw/news/aopl/202611230279.aspx
-- 2026-11-23 臺灣資安防禦經驗登上奧地利《標準報》 林宜敬部長籲民主夥伴攜手因應AI時代資安挑戰、建立可信賴供應鏈：https://moda.gov.tw/press/press-releases/21514
-- 2026-11-23 法國財長坦言經濟成長有下修風險　支持研議長期預算規則：https://www.cna.com.tw/news/aopl/202611230278.aspx
-- 2026-11-23 Sierra doubles valuation to $30B within six months as demand for AI in CX takes off：https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/
-- 2026-11-23 台灣創新技術博覽會：數位賦能區2026-9-17~19：https://moda.gov.tw/ADI/news/exhibition/21510
-- 2026-11-23 英歐同意排放權交易系統接軌　彼此豁免碳關稅在望：https://www.cna.com.tw/news/ait/202611230187.aspx
-- 2026-11-23 How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO：https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/
-- 2026-11-23 「2026 ITSPORT體感科技挑戰賽」登場 國產科技運動產品實證成果亮相：https://moda.gov.tw/ADI/news/latest-news/21520
-- 2026-11-23 OpenAI科學家建議以困惑度為指標　訂定AI發展業界門檻：https://www.cna.com.tw/news/ait/202611230017.aspx
+- 2026-11-25 傳美國準備調高對中國與其他國家關稅　最快本週公布：https://www.cna.com.tw/news/aopl/202611250002.aspx
+- 2026-11-24 Maple raises $5.3M to build AI products that protect your data, even from itself：https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/
+- 2026-11-24 黃仁勳回歸輝達陳其邁：對台灣半導體是利多：https://www.cna.com.tw/news/aloc/202611240142.aspx
+- 2026-11-24 資策會明年推後量子密碼遷移指引修訂版　助產業掌握規範：https://www.cna.com.tw/news/afe/202611240320.aspx
+- 2026-11-24 Anthropic shares fall below IPO price, a worrying sign for AI startups：https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/
+- 2026-11-24 黃仁勳重掌輝達股市狂飆台廠AI供應鏈影響一次看：https://www.cna.com.tw/news/afe/202611240170.aspx
+- 2026-11-24 國發會：生醫納戰略產業規劃　2030年營業額拚兆元：https://www.cna.com.tw/news/afe/202611240300.aspx
+- 2026-11-24 UK warns AI-driven cyberattacks are exposing years of weak security：https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/
+- 2026-11-24 黃仁勳回歸輝達供應鏈：AI循環融資受約束監管不鬆手：https://www.cna.com.tw/news/afe/202611240070.aspx
+- 2026-11-24 美加強管制AI晶片出口阿里巴巴子公司列貿易黑名單：https://www.cna.com.tw/news/aopl/202611240178.aspx
+- 2026-11-24 Anthropic上市不到一週跌破發行價　盤前下挫逾6%：https://www.cna.com.tw/news/afe/202611240295.aspx
+- 2026-11-24 Meta brings its Muse AI assistant directly into Instagram DMs：https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/
+- 2026-11-24 馬來西亞防規避出口管制籲資料中心勿服務美國列名企業：https://www.cna.com.tw/news/aopl/202611240175.aspx
+- 2026-11-24 Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming：https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/
+- 2026-11-24 黃仁勳回歸　潘思亮：救了台灣、AI訂單非台莫屬：https://www.cna.com.tw/news/afe/202611240291.aspx
+- 2026-11-24 Why a Crusoe investor is betting on solar and batteries to power future AI data centers：https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/
+- 2026-11-24 路透：台積電評估德州設廠房產稅減免成關鍵條件：https://www.cna.com.tw/news/afe/202611240263.aspx
+- 2026-11-24 川習三會後北京延長暫緩對美出口鎵鍺銻禁令：https://www.cna.com.tw/news/acn/202611240273.aspx
+- 2026-11-24 受惠AI熱潮　上市櫃公司前3季獲利齊創10年同期新高：https://www.cna.com.tw/news/afe/202611240281.aspx
+- 2026-11-24 Pinterest will now let parents limit the AI-generated content their teens see：https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/
+- 2026-11-24 黃仁勳重返輝達兆豐金：降低AI供應鏈訂單能見度疑慮：https://www.cna.com.tw/news/afe/202611240192.aspx
+- 2026-11-24 馬來西亞推智慧製造　台馬業界盼深化AI與供應鏈合作：https://www.cna.com.tw/news/afe/202611240280.aspx
+- 2026-11-24 Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia：https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/
+- 2026-11-24 AI需求強勁 10月工業生產指數年增29.8%連32紅：https://www.cna.com.tw/news/afe/202611240193.aspx
+- 2026-11-24 中小企業綠色金融聯盟成立　明年將培育5千名碳健檢人才：https://www.cna.com.tw/news/afe/202611240279.aspx
 
 ## 相關網站
 - 標案王：https://www.bidking.tw/
