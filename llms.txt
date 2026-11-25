@@ -9,31 +9,31 @@
 - 維護：仁禾管理顧問
 
 ## 最新內容
-- 2026-11-25 傳美國準備調高對中國與其他國家關稅　最快本週公布：https://www.cna.com.tw/news/aopl/202611250002.aspx
-- 2026-11-24 Maple raises $5.3M to build AI products that protect your data, even from itself：https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/
-- 2026-11-24 黃仁勳回歸輝達陳其邁：對台灣半導體是利多：https://www.cna.com.tw/news/aloc/202611240142.aspx
-- 2026-11-24 資策會明年推後量子密碼遷移指引修訂版　助產業掌握規範：https://www.cna.com.tw/news/afe/202611240320.aspx
-- 2026-11-24 Anthropic shares fall below IPO price, a worrying sign for AI startups：https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/
-- 2026-11-24 黃仁勳重掌輝達股市狂飆台廠AI供應鏈影響一次看：https://www.cna.com.tw/news/afe/202611240170.aspx
-- 2026-11-24 國發會：生醫納戰略產業規劃　2030年營業額拚兆元：https://www.cna.com.tw/news/afe/202611240300.aspx
-- 2026-11-24 UK warns AI-driven cyberattacks are exposing years of weak security：https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/
-- 2026-11-24 黃仁勳回歸輝達供應鏈：AI循環融資受約束監管不鬆手：https://www.cna.com.tw/news/afe/202611240070.aspx
-- 2026-11-24 美加強管制AI晶片出口阿里巴巴子公司列貿易黑名單：https://www.cna.com.tw/news/aopl/202611240178.aspx
-- 2026-11-24 Anthropic上市不到一週跌破發行價　盤前下挫逾6%：https://www.cna.com.tw/news/afe/202611240295.aspx
-- 2026-11-24 Meta brings its Muse AI assistant directly into Instagram DMs：https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/
-- 2026-11-24 馬來西亞防規避出口管制籲資料中心勿服務美國列名企業：https://www.cna.com.tw/news/aopl/202611240175.aspx
-- 2026-11-24 Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming：https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/
-- 2026-11-24 黃仁勳回歸　潘思亮：救了台灣、AI訂單非台莫屬：https://www.cna.com.tw/news/afe/202611240291.aspx
-- 2026-11-24 Why a Crusoe investor is betting on solar and batteries to power future AI data centers：https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/
-- 2026-11-24 路透：台積電評估德州設廠房產稅減免成關鍵條件：https://www.cna.com.tw/news/afe/202611240263.aspx
-- 2026-11-24 川習三會後北京延長暫緩對美出口鎵鍺銻禁令：https://www.cna.com.tw/news/acn/202611240273.aspx
-- 2026-11-24 受惠AI熱潮　上市櫃公司前3季獲利齊創10年同期新高：https://www.cna.com.tw/news/afe/202611240281.aspx
-- 2026-11-24 Pinterest will now let parents limit the AI-generated content their teens see：https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/
-- 2026-11-24 黃仁勳重返輝達兆豐金：降低AI供應鏈訂單能見度疑慮：https://www.cna.com.tw/news/afe/202611240192.aspx
-- 2026-11-24 馬來西亞推智慧製造　台馬業界盼深化AI與供應鏈合作：https://www.cna.com.tw/news/afe/202611240280.aspx
-- 2026-11-24 Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia：https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/
-- 2026-11-24 AI需求強勁 10月工業生產指數年增29.8%連32紅：https://www.cna.com.tw/news/afe/202611240193.aspx
-- 2026-11-24 中小企業綠色金融聯盟成立　明年將培育5千名碳健檢人才：https://www.cna.com.tw/news/afe/202611240279.aspx
+- 2026-11-26 黃仁勳強勢回歸輝達總部　馬斯克攜子現身合體慶賀：https://www.cna.com.tw/news/aopl/202611260007.aspx
+- 2026-11-26 美301調查出爐擬對台稅率最高15%、特定商品可豁免：https://www.cna.com.tw/news/aipl/202611260002.aspx
+- 2026-11-25 OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work：https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/
+- 2026-11-25 傳美國準備調高關稅行政院：有信心反映先前談判成果：https://www.cna.com.tw/news/aipl/202611250089.aspx
+- 2026-11-25 新加坡澳洲關鍵物資合作從燃料擴至食藥半導體：https://www.cna.com.tw/news/aopl/202611250176.aspx
+- 2026-11-25 川普新一波大規模關稅民進黨團：可以樂觀正面期待：https://www.cna.com.tw/news/aipl/202611250098.aspx
+- 2026-11-25 Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’：https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/
+- 2026-11-25 工研院連19年奪百大科技研發獎淨零等3技術獲肯定：https://www.cna.com.tw/news/afe/202611250227.aspx
+- 2026-11-25 財部：前10月隱形眼鏡出口4.5億美元全年拚歷史次高：https://www.cna.com.tw/news/afe/202611250052.aspx
+- 2026-11-25 美擬對14經濟體加徵關稅　中國20%最高、台韓日歐盟15%：https://www.cna.com.tw/news/aopl/202611250342.aspx
+- 2026-11-25 Want to buy your kid an AI toy this Christmas? Not in New York：https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/
+- 2026-11-25 301關稅又來了？台經院：估稅率不超過15%不用太擔心：https://www.cna.com.tw/news/afe/202611250123.aspx
+- 2026-11-25 航空供應鏈瓶頸延續長榮航太：明年逾8成維修已排定：https://www.cna.com.tw/news/afe/202611250195.aspx
+- 2026-11-25 美301調查出爐擬對14經濟體加關稅　台灣協議稅率至少15%：https://www.cna.com.tw/news/aopl/202611250324.aspx
+- 2026-11-25 Character.AI’s plan to auction off users’ private chats challenged by state AGs：https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/
+- 2026-11-25 吳誠文：AI需求尚未滿足台灣具產業優勢別跟著驚嚇：https://www.cna.com.tw/news/afe/202611250289.aspx
+- 2026-11-25 川普力促黃仁勳回歸分析：可能助長加強晶片出口管制呼聲：https://www.cna.com.tw/news/aopl/202611250028.aspx
+- 2026-11-25 離岸風電改採CPPA　經部：風場建置無涉稅金支出、三方得利：https://www.cna.com.tw/news/afe/202611250312.aspx
+- 2026-11-25 德國Q3經濟成長率下修至0.1%　反映消費支出與投資放緩：https://www.cna.com.tw/news/aopl/202611250311.aspx
+- 2026-11-25 Amazon and Meta reportedly in talks to lift blockade on AI agent Muse：https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/
+- 2026-11-25 AI帶動韓國經濟成長產業榮景與民眾體感不同調：https://www.cna.com.tw/news/aopl/202611253001.aspx
+- 2026-11-25 美伊戰爭推升油價　英國易捷航空獲利暴跌96%：https://www.cna.com.tw/news/aopl/202611250304.aspx
+- 2026-11-25 The questions Jensen Huang and Nvidia will still have to answer about Megaspeed：https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/
+- 2026-11-25 美301調查將出爐台美經貿人士：估最終稅率15%不疊加：https://www.cna.com.tw/news/aipl/202611250088.aspx
+- 2026-11-25 Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion：https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/
 
 ## 相關網站
 - 標案王：https://www.bidking.tw/
